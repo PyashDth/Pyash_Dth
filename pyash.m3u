@@ -64,7 +64,12 @@ m3u8 link
 https://live-cdn.tsports.com/live-02/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD | CHENNAL", Jamuna Tv News
+https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BD | CHENNAL", DBC News 
+https://utube.buddyxiptv.com/@dbcnewstv.m3u8
 
 
 
