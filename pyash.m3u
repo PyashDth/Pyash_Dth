@@ -1,59 +1,63 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD|CHENNAL", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="IND BANGAL|CHENNAL", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="KOLKATA | CHENNAL", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI|CHENNAL", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="ISLAMIC|CHENNAL", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="ISLAMIC | CHENNAL", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS|CHENNAL", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS | CHENNAL", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS|CHENNAL", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS | CHENNAL", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC|CHENNAL", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC | CHENNAL", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOCUMENTARY | CHENNAL", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BANGLA | MOVIES", Channel Name 
 m3u8 lin
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="KOLKATA | MOVIES", Channel Name 
 m3u8 link
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI | MOVIES", Channel Name 
+m3u8 lin
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPECIAL | MOVIES", Channel Name 
+m3u8 lin
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR | MOVIES", Channel Name 
+m3u8 lin
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MOVIE | SERIES", Channel Name 
+m3u8 lin
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="PYASH | DTH", Channel Name 
+m3u8 lin
 
 
 
