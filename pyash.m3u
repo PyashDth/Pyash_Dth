@@ -24,7 +24,7 @@ https://bdix.proximitybd.xyz/buka.php?id=live-01
 http://14.102.123.50:5001/live/545.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gpgx0WWD/images-6.jpg" group-title="MUSIC | CHENNAL", Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="MUSIC | CHENNAL", Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
 
 
@@ -100,11 +100,11 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="KOLKATA | CHENNAL", Colors Bangla 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2505/logo/240x240/mobile_logo_200057001655891962.png" group-title="KOLKATA | CHENNAL", Colors Bangla 
 http://14.102.123.50:5001/live/1369.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzmqjc3s/Colors-Bangla-Cinema.png" group-title="KOLKATA | CHENNAL", Colors Bangla Cinema 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA | CHENNAL", Colors Bangla Cinema 
 http://filex.tv:8080/live/munna/9090/455326.ts
 
 
