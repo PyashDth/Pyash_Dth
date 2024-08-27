@@ -1,35 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BD | CHENNAL", SOMOY TV 
+http://xtv.ooo:8080/live/927382370/837382809/245925.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KOLKATA | CHENNAL", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="KOLKATA | CHENNAL", Star Jalsha HD
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18841/logo/240x240/mobile_logo_664367001683806020.png" group-title="INDIA | CHENNAL", Star Plus HD
+http://217.20.112.199/starplushd/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="ISLAMIC | CHENNAL", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFLpSBz/436x436.png" group-title="ISLAMIC | CHENNAL", Makkah Tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS | CHENNAL", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg" group-title="SPORTS | CHENNAL", T Sports HD 
+https://bdix.proximitybd.xyz/buka.php?id=live-01
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS | CHENNAL", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png" group-title="KIDS | CHENNAL", Nick HD
+http://14.102.123.50:5001/live/545.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC | CHENNAL", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gpgx0WWD/images-6.jpg" group-title="MUSIC CHENNAL", Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOCUMENTARY | CHENNAL", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZWRbcP/20240803-170217.png" group-title="DOCUMENTARY | CHENNAL", Natinal Geographic 
+http://opplex.tv:8080/live/919990697539/9535126056/245967.ts
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="BANGLA | MOVIES", Channel Name 
