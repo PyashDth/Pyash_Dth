@@ -61,7 +61,7 @@ m3u8 link
 
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg" group-title="SPORTS | CHENNAL", T Sports HD
-https://live-cdn.tsports.com/live-02/index.m3u8
+https://bdix.proximitybd.xyz/buka.php?id=live-02
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD | CHENNAL", Jamuna Tv News
@@ -124,20 +124,24 @@ http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=40476&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HrJVFC8/20240826-230453.png" group-title="BD | CHENNAL", Gazi Tv HD
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=_OJl-D_MO4yG1eh2gqvhIA&expires=1724916239&user=ef71b837ceef4cd18a6cf7069722d83d
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="KOLKATA | CHENNAL", Star Jalsha 
+http://217.20.112.199/starjalshahd/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="KOLKATA | CHENNAL", Jalsha Movies 
+http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa68e4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="INDIA | CHENNAL", Sony Entertainment 
+https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BD | CHENNAL", Ekkattor Tv HD
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=qZD2O93eyAlz3N3n1-SOGA&expires=1725000520&user=ef71b837ceef4cd18a6cf7069722d83d
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
