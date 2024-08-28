@@ -128,11 +128,11 @@ http://tv.cloudcdn.me/live.ts?channelId=40476&uid=13603&deviceMac=00:1A:79:64:B4
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=_OJl-D_MO4yG1eh2gqvhIA&expires=1724916239&user=ef71b837ceef4cd18a6cf7069722d83d
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KOLKATA | CHENNAL", Star Jalsha 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLXgSHty/Star-Jalsha-logo-2023.png" group-title="KOLKATA | CHENNAL", Star Jalsha 
 http://217.20.112.199/starjalshahd/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KOLKATA | CHENNAL", Jalsha Movies 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59hp2M6q/8pjig5P8.webp" group-title="KOLKATA | CHENNAL", Jalsha Movies 
 http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa68e4
 
 
@@ -144,56 +144,100 @@ https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/c
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=qZD2O93eyAlz3N3n1-SOGA&expires=1725000520&user=ef71b837ceef4cd18a6cf7069722d83d
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS | CHENNAL", Nick Bangla 2
+http://14.102.123.50:5001/live/1341.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png" group-title="KIDS | CHENNAL", Disney 2
+https://flixtronic.top/mc/hex.m3u8?id=156000&e=.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS | CHENNAL", PoGo 2
+https://fmrx.short.gy/bdix_iptv_hub/pogo.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS | CHENNAL", Hungama
+http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS | CHENNAL", Super Hungama
+https://sliv.drmlive.in/2011746/SonyYaySD/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nmqxm7q/20240812-184149.png" group-title="MUSIC | CHENNAL", Doom Music Bangla
+https://cdn3.pishow.tv/live/279/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qp2LXzD/20240803-105126.png" group-title="MUSIC | CHENNAL", 9X JALWA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P6m5DTW/20240803-105303.png" group-title="MUSIC | CHENNAL", JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="INDIA | CHENNAL", Colors HD
+https://colorsscreen.com/live.php?id=144&extension=.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hB4Sv2y/20240803-101733.png" group-title="DOCUMENTORY | CHENNAL", Discovery HD
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY | CHENNAL", Discovery Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27xSN3Z/20240803-172527.png" group-title="ISLAMIC | CHENNAL", Islam Bangla
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ngNhxGh/20240803-165452.png" group-title="DOCUMENTORY | CHENNAL", Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="ISLAMIC | CHENNAL", MADANI TV
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHANNEL", SONY SPORTS 1 HD
+https://mhdtv.co.in/daddy/stream.m3u8?id=267
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHANNEL", SONY SPORTS 2 HD
+http://ekdilhai.pro/IN_SNT2/index.m3u8?token=ed35bc130772d0d29435cee71272324c
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHANNEL", SONY SPORTS 3 HD
+http://opplextv.cyou:8080/live/4545/4545/167572.ts
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHANNEL", SONY SPORTS 4 HD
+http://opplextv.cyou:8080/live/4545/4545/167595.ts
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHANNEL", SONY SPORTS 5 HD
+http://humsab.xyz/S_Ten5/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHANNEL", STAR SPORTS 1 HD
+https://ddy6.mizhls.ru/ddy6/premium268/tracks-v1a1/mono.m3u8?
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHANNEL", STAR SPORTS 2 HD
+http://opplextv.cyou:8080/live/4545/4545/167576.ts
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHANNEL", STAR SPORTS 3 HD
+http://xtv.ooo:8080/global/global/167577
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vYnZkKk/20240803-110602.png" group-title="INDIA | CHENNAL", & TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BD | CHENNAL", Iindependent TV
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?
 
 
 
