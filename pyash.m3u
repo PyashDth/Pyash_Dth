@@ -96,8 +96,8 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="INDIA | CHENNAL", Sony Intertainment
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="INDIA | CHENNAL", Sony Entertainment
+https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2505/logo/240x240/mobile_logo_200057001655891962.png" group-title="KOLKATA | CHENNAL", Colors Bangla 
@@ -133,11 +133,7 @@ http://217.20.112.199/starjalshahd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59hp2M6q/8pjig5P8.webp" group-title="KOLKATA | CHENNAL", Jalsha Movies 
-http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa68e4
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="INDIA | CHENNAL", Sony Entertainment 
-https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BD | CHENNAL", Ekkattor Tv HD
@@ -158,10 +154,6 @@ https://fmrx.short.gy/bdix_iptv_hub/pogo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS | CHENNAL", Hungama
 http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS | CHENNAL", Super Hungama
-https://sliv.drmlive.in/2011746/SonyYaySD/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nmqxm7q/20240812-184149.png" group-title="MUSIC | CHENNAL", Doom Music Bangla
