@@ -145,7 +145,7 @@ http://14.102.123.50:5001/live/1341.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png" group-title="KIDS | CHENNAL", Disney 2
-https://flixtronic.top/mc/hex.m3u8?id=156000&e=.m3u8
+http://119.156.26.155:8000/play/a05u/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS | CHENNAL", PoGo 2
