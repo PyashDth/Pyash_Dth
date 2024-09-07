@@ -36,11 +36,6 @@ http://opplex.tv:8080/live/919990697539/9535126056/245967.ts
 m3u3 link
 
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yJjtfJy/IMG-20240825-112836.jpg" group-title="KOLKATA | MOVIES", PAGLU
-http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/I%20Love%20You%20%282007%29%201080p%20WEBRip.mp4
-
-
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI | MOVIES", Channel Name 
 m3u8 link
 
