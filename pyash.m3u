@@ -56,7 +56,7 @@ m3u8 link
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="ttp://103.112.150.230//Admin/main/images/tt4773112/poster/original//cAOu8jKtQVD1r8I7olVYpCDFWHv.jpg" group-title="PYASH | DTH", T.me:@Pyash8989
+#EXTINF:-1 tvg-logo "https://i.postimg.cc/zGswbsbW/IMG-20240826-203444-821.jpgh" group-title="PYASH | DTH", T.me:@Pyash8989
 m3u8 link
 
 
