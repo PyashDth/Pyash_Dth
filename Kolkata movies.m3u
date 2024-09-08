@@ -22,15 +22,15 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282016%29/Gangster%20%282016%29%201080p%20WEB-DL/Gangster.2016.1080p.WEB-DL.DDP2.0.HEVC.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BONNY | MOVIES", PARBO NA AMI CHARTE TOKE
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfSCYdq8/IMG-20240824-215900.jpg" group-title="BONNY | MOVIES", PARBO NA AMI CHARTE TOKE
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282015%29/Parbona%20Ami%20Chartey%20Tokey%20%282015%29%20720p/Parbona%20Ami%20Chartey%20Tokey%20%282015%29%20720p.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPECIAL | MOVIES", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fL67yxTT/images-3.jpg" group-title="SPECIAL | MOVIES", ADVENTURE OF JOJO
+http://vodlb2.zaintv.net/meDia/MoVies/BanglaMov/Adventures.of.Jojo.2018.Bengali.WebRip.720p.x264.AAC.Team.MS.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="PIYAS | DTH", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="PIYAS | DTH", T.me/@Pyash8989
 m3u8 link
 
 
