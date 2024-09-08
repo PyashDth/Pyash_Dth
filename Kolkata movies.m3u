@@ -1,4 +1,4 @@
-p#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yJjtfJy/IMG-20240825-112836.jpg" group-title="DEV | MOVIES", I LOVE YOU 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/I%20Love%20You%20%282007%29%201080p%20WEBRip.mp4
@@ -198,53 +198,60 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282023%29/Chengiz%20%282023%29%20Bengali%20720p%20PreDVD/Chengiz%20%282023%29%20Bengali%20PreDVDRip.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="JEET | MOVIES", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM | MOVIES", FANDE PORIYA BOGA KANDE RE 
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282011%29/Faande%20Poriya%20Boga%20Kaande%20Re%20%282011%29%20Bangla%201080p/Faande%20Poriya%20Boga%20Kaande%20Re%282011%29%20%20Bangla%20FUll%20Movie%20HD%201080p%20WEB%20DL.mp4
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM | MOVIES", LOVERIA 
+http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Loveria%20%282013%29%201080p%20WEBRip.mp4
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM | MOVIES", BOJHENA SE BOJHENA
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/Bojhena%20Shey%20Bojhena%20%282012%29%20Bengali%201080p/Bojhena%20Shey%20Bojhena%20%282012%29%20Bengali%20WEB-DL%201080p.mkv
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM | MOVIES", JANEMAN 
+http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Jaaneman%20%282012%29%20720p%20WEBDL.mkv
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM | MOVIES", AMANUSH 
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/AMANUSH%20%282010%29/Amanush.2010.1080p.AMZN.WEB-DL.DDP2.0.H.2
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM | MOVIES", LE HALUA LE
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/Le%20Halua%20Le%282012%29%20Bangla%201080p/Le%20Halua%20Le%282012%29%20Bangla%20Movie%201080p%20HD%20WEB%20DL%20.mp4
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM | MOVIES", JIO PAGLA
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282017%29/Jio%20Pagla%20%282017%29%201080p/Jio.Pagla.2017.Bengali.1080p_WEB-DL.x264-worldmkv.mkv
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM | MOVIES", PIYA RE
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Piya%20Re%20%28%202018%20%29%20Bangla%201080p/Piya%20Re%20%28%202018%20%29%20Bangla%20HS%201080p%20WEB-DL%20H264%20AAC.mp4
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM | MOVIES", GOLPO HOTE SOTTI
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282014%29/Golpo%20Holeo%20Shotti%20%282015%29%20720p/Golpo%20Holeo%20Shotti%20%282015%29%20720p.mkv
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HERON | MOVIES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="JEET | MOVIES", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HERON | MOVIES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="JEET | MOVIES", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HERON | MOVIES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="JEET | MOVIES", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HERON | MOVIES", Channel Name 
 m3u8 link
 
 
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="JEET | MOVIES", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HERON | MOVIES", Channel Name 
 m3u8 link
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="JEET | MOVIES", Channel Name 
-m3u8 link
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
