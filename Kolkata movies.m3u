@@ -130,12 +130,12 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Yoddha%20%282014%2
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Paglu%202%20%282012%29%20720p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV | MOVIES", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV | MOVIES", HEROGIRI
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV | MOVIES", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV | MOVIES", KACHER MANUSH 
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282022%29/Kacher%20Manush%20%282022%29%20Bengali%201080p%20WEB-DL/Kacher.Manush.%282022%29.1080p.WEB-DL.Bengali.DDP5.1.H.264.mkv
 
 
 
