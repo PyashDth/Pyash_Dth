@@ -32,24 +32,24 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.
 http://opplex.tv:8080/live/919990697539/9535126056/245967.ts
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BANGLA | MOVIES", Channel Name 
-m3u3 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BANGLA | MOVIES", I LOVE YOU
+http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/I%20Love%20You%20%282007%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI | MOVIES", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI | MOVIES", BAAHUBALI 1
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282015%29/Baahubali%20The%20Beginning%20%282015%29%20BluRay%201080p/Baahubali.The.Beginning.2015.1080p.BluRay.x264.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPECIAL | MOVIES", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPECIAL | MOVIES", TITANIC
+http://45.250.20.254/collection/English%20Movies/%281997%29/Titanic%20%281997%29%20720p%20%5BDual%20Audio%5D/Titanic%20%281997%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR | MOVIES", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR | MOVIES", RAAZ REBOT 
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2016/Raaz%20Reboot%20%282016%29%201080p/Raaz%20Reboot%20%282016%29%201080p.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MOVIE | SERIES", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI | MOVIES", BAAHUBALI 2
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282017%29/Baahubali%202%20The%20Conclusion%20%282017%29%20BluRay%201080p/Baahubali.2.The.Conclusion.2017.1080p.BluRay.x264.mp4
 
 
 #EXTINF:-1 tvg-logo "https://i.postimg.cc/zGswbsbW/IMG-20240826-203444-821.jpgh" group-title="PYASH | DTH", T.me:@Pyash8989
