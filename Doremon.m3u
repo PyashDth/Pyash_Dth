@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DORAEMON | MOVIES", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DORAEMON | MOVIES", Doremon Spirial City
+http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%282005%29%20Hindi%20Dubbed%20720p/Episode%2028%20-%20Doraemon%20Nobita%20and%20the%20Spiral%20City%20Hindi%20720p%20%5BRareToonsIndia%5D.mkv
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | EPISODES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON| ADVENTURE", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | ADVENTURE", Channel Name 
 m3u8 link
 
 
