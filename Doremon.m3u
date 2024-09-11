@@ -1,16 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DORAEMON | MOVIES", Channel Name 
 m3u8 link
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | EPISODES", Channel Name 
+m3u8 link
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="ADVENTURE | EPISODES", Channel Name 
+m3u8 link
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="PYASH | DTH", T.me_@Pyash8989 
+m3u8 link
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
+m3u8 link
 
 
 
