@@ -1,16 +1,30 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BOLLYWOOD | MOVIES", Channel Name 
+m3u8 link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HOLLYWOOD | MOVIES", Channel Name 
+m3u8 link
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOUTH INDIAN | MOVIES", Channel Name 
+m3u8 link
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI DUBBED | MOVIES", Channel Name 
+m3u8 link
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="PYASH | DTH", Channel Name 
+m3u8 link
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
+m3u8 link
 
 
-
-
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
+m3u8 link
 
 
 
