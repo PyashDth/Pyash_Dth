@@ -12,14 +12,88 @@ m3u8 link
 http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E01.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="PYASH | DTH", T.me_@Pyash8989 
-m3u8 link
-
-
 #EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 2
 http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E02.mkv
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (2)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (3)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (4)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (5)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (6)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (7)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (8)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (9)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (10)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (11)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (12)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (13)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (14)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (15)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (16)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (17)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (18)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (19)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (20)", Channel Name 
+m3u8 link
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="PYASH | DTH", T.me_@Pyash8989 
+m3u8 link
 
 
 
