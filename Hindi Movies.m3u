@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BOLLYWOOD | MOVIES", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BOLLYWOOD | MOVIES", ABCD 2
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2015/Abcd%202%20%282015%29%201080p/ABCD%202%202015%20Hindi%201080p%20BluRay%20x265%20HEVC%20DTS.mkv
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR | MOVIES", Channel Name 
-m3u8 link
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SOUTH INDIAN | MOVIES", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR | MOVIES", ALONE
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2015/Alone%20%282015%29%20720p/Alone%20%282015%29%20720p.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI DUBBED | MOVIES", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOUTH INDIAN | MOVIES", BAHUBALI THE BUGGING 
+http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282015%29/Baahubali%20The%20Beginning%20%282015%29%20BluRay%201080p/Baahubali.The.Beginning.2015.1080p.BluRay.x264.mp4
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI DUBBED | MOVIES", TITANIC 
+http://45.250.20.254/collection/English%20Movies/%281997%29/Titanic%20%281997%29%20720p%20%5BDual%20Audio%5D/Titanic%20%281997%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="PYASH | DTH", Channel Name 
