@@ -1,34 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DORAEMON | EPISODES", Channel Name 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqr9tYRW/5866.jpg" group-title="DORAEMON | EPISODES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DORAEMON | MOVIES", Channel Name 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSsnMVg7/5865.jpg" group-title="DORAEMON | MOVIES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MOTU PATLU | EPISODES", Channel Name 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0BCGsqM/5868.jpg" group-title="MOTU PATLU | EPISODES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MOTU PATLU | MOVIES", Channel Name 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsG61WZR/5869.jpg" group-title="MOTU PATLU | MOVIES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="CHOTA BEEM | EPISODES", Channel Name 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJBW9NcL/5870.jpg" group-title="CHOTA BHEEM | EPISODES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="CHOTA | BEEM | MOVIES", Channel Name 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXTGWYXd/5871.jpg" group-title="CHOTA | BHEEM | MOVIES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SHINCHEN | EPISODES", Channel Name 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbys8GDQ/5874.jpg" group-title="SHINCHEN | EPISODES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SHINCHEN | MOVIES", Channel Name 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKw8CMqD/5873.jpgl" group-title="SHINCHEN | MOVIES", Channel Name 
 m3u8 link
 
 
