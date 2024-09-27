@@ -1,94 +1,42 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DORAEMON | MOVIES", Doremon Spirial City
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%282005%29%20Hindi%20Dubbed%20720p/Episode%2028%20-%20Doraemon%20Nobita%20and%20the%20Spiral%20City%20Hindi%20720p%20%5BRareToonsIndia%5D.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="ADVENTURE | SPECIALIST", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DORAEMON | EPISODES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 1
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E01.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 2
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E02.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (2)", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DORAEMON | MOVIES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (3)", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MOTU PATLU | EPISODES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (4)", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MOTU PATLU | MOVIES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (5)", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="CHOTA BEEM | EPISODES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (6)", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="CHOTA | BEEM | MOVIES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (7)", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SHINCHEN | EPISODES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (8)", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SHINCHEN | MOVIES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (9)", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPECIAL KIDS | EPISODES", Channel Name 
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (10)", Channel Name 
-m3u8 link
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (11)", Channel Name 
-m3u8 link
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (12)", Channel Name 
-m3u8 link
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (13)", Channel Name 
-m3u8 link
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (14)", Channel Name 
-m3u8 link
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (15)", Channel Name 
-m3u8 link
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (16)", Channel Name 
-m3u8 link
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (17)", Channel Name 
-m3u8 link
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (18)", Channel Name 
-m3u8 link
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (19)", Channel Name 
-m3u8 link
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (20)", Channel Name 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPECIAL KIDS | MOVIES", Channel Name 
 m3u8 link
 
 
@@ -96,116 +44,6 @@ m3u8 link
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 3
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E08.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 4
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E39.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 5
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E09.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 6
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E37.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 7
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E12.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 8
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E49.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 9
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E11.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 10
-m3u8 link
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 11
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E52.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 12
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E44.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 13
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E32.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 14
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E18.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 15
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E38.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 16
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E28.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 17
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E48.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 18
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E30.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 19
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E19.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 20
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E06.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 21
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E43.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 22
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E21.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 23
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E31.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 24
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E50.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 25
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E14.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 26
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E23.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 27
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E20.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 28
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E05.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 29
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E07.mkv
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DOREMON | SEASON (1)", EPISODE 30
-http://server5.ftpbd.net/FTP-5/Anime%20%26%20Cartoon%20TV%20Series/Doraemon%20%281979%29%20Hindi%20dub/S01/S01E40.mkv
 
 
 
