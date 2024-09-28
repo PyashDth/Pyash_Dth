@@ -64,10 +64,6 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2016/Housefull%203%20%282016%29%20
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2019/Housefull%204%20%282019%29%20Hindi%201080p/Housefull.4.2019.Hindi.1080p.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVCNYT94/6013.jpg" group-title="BOLLYWOOD | MOVIES", SAHHO 
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2019/Saaho%202019%204K/Saaho%202019%202160p.mp4
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkMnb6kR/6012.jpg" group-title="BOLLYWOOD | MOVIES", STREET DANCER 3D
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2020/Street%20Dancer%203D%20%282020%29%201080p%20WEBRip/Street.Dancer.3D.2020.1080p.3D.WEBRip.HSBS.x264-%5BYTS.MX%5D.mp4
 
@@ -96,39 +92,39 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2010/Robot%20%282010%29%201080p%20
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Dhoom%203%20%282013%29%201080p%20BluRay/Dhoom.3.2013.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc60rRyP/6020.jpg https://i.postimg.cc/CM7Kbf8t/6016.jpg https://i.postimg.cc/mgz2xXnf/6019.jpg https://i.postimg.cc/xCY0z01n/6021.jpg https://i.postimg.cc/503f5ZXv/6022.jpg https://i.postimg.cc/Dw9f7QVW/6023.jpg https://i.postimg.cc/d0Gs37v5/6024.jpg " group-title="HORROR | MOVIES", THE RING
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCY0z01n/6021.jpg" group-title="HORROR | MOVIES", THE RING
 http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/2015%20%26%20Before/The%20Ring%20%282002%29%201080p%20BluRay%20%5BDual%20Audio%5D/The.Ring.2002.1080p.BluRay.Dual%20Audio.x264.ESubs.mp4
 
 
-#EXTINF:-1 tvg-logo="https://postimg.cc/gallery/2S1PGdw" group-title="HORROR | MOVIES", THE CONJURING 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/503f5ZXv/6022.jpg" group-title="HORROR | MOVIES", THE CONJURING 
 http://server2.ftpbd.net/FTP-2/English%20Movies/Dual-Audio/2015%20%26%20Before/The%20Conjuring%20%282013%29%20720p%20%5BDual%20Audio%5D/The%20Conjuring%20%282013%29720p%20BRRip%20x264%20%5BDual%20Audio%5D.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR | MOVIES", 1921 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Gs37v5/6024.jpg" group-title="HORROR | MOVIES", 1921 
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2018/1921%20%282018%29%20Hindi%20720p/1921%20%282018%29%20Hindi%20720p%20HDRip%20x264%20AAC%20-%20Downloadhub.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR | MOVIES", RAZZ 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NGSRmFJ/6025.jpg" group-title="HORROR | MOVIES", RAZZ 3
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Raaz%203%20%282012%29%201080p%20WEB-DL/Raaz.3.2012.1080p.GPLAY.WEB-DL.DDP5.1.H.264-voodoo.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR | MOVIES", KHAMOSHIYAN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKLDb416/6026.jpg" group-title="HORROR | MOVIES", KHAMOSHIYAN
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2015/Khamoshiyan%20%282015%29%201080p/Khamoshiyan%20%282015%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR | MOVIES", 1920 LONDON
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ1Qk7kW/6028.jpg" group-title="HORROR | MOVIES", 1920 LONDON
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2016/1920%20London%20%282016%29%20DvDRip/1920%20London%20%282016%29%20DvDRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR | MOVIES", RAZZ REBOT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpqdc4qf/6027.jpg" group-title="HORROR | MOVIES", RAZZ REBOT
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2016/Raaz%20Reboot%20%282016%29%201080p/Raaz%20Reboot%20%282016%29%201080p.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR | MOVIES", 1920
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw9f7QVW/6023.jpg" group-title="HORROR | MOVIES", 1920
 http://45.250.20.254/collection/Movies/Hindi/1920%20%282008%29%20720p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR | MOVIES", KANCHANA 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL1mZsqt/6029.jpg" group-title="HORROR | MOVIES", KANCHANA 2
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282015%29/Kanchana%202%20%282015%29%20720p%20%5BDual%20Audio%5D/Kanchana%202%20%282015%29%20720p%20UNCUT%20HDRip%20x264%20%5BDual%20Audio%5D%20%5BHindi%20DD%202.0%20-%20Tamil%20DD%205.1%5D.mp4
 
 
@@ -200,7 +196,8 @@ http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282016%29
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282023%29/Salaar%20%282023%29%201080p%20WEB-DL%20%5BHindi%20Dubbed%5D/Salaar%202023%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mp4
 
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVCNYT94/6013.jpg" group-title="SOUTH INDIAN | MOVIES", SAHHO 
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2019/Saaho%202019%204K/Saaho%202019%202160p.mp4
 
 
 
