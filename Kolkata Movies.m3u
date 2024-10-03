@@ -51,7 +51,7 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcMVTQP/images-3.jpg" group-title="DEV | MOVIES", BOLO NA TUMI AMER
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/Bolo%20Na%20Tumi%20Amar%20%282010%29%20Bengali%201080p%20WEB-DL/Bolo.Na.Tumi.Amaar.2010.1080p.DSNP.WEB-DL.AAC2.0.H.264.mp4
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/Bolo%20Na%20Tumi%20Amar%20%282010%29%20Bengali%201080p%20WEB-DL/Bolo_Na_Tumi_Amar_2010_Bengali_WEB-DL.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhV8vhHt/images.jpg" group-title="DEV | MOVIES", DUI PRITHIBI 
@@ -110,7 +110,7 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282017%29/Amazon%20Obhijaan%20%282017%29%201080p/Amazon.Obhijaan.2017.1080p.AMZN.WEB-DL.DDP2.0.H.264-KnightKing.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDpTcsTj/IMG-20240825-112929.jpg" group-title="DEV | MOVIES", HOICHOI UNLIMITED 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1jX_zwSyMCjEfO7Wt6kvMqItH8KeMzFYA2ouootoiLHLl-zDz56GQl_J&s=10" group-title="DEV | MOVIES", HOICHOI UNLIMITED 
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Hoichoi%20Unlimited%20%282018%29%20Bengali%201080p/Hoichoi%20Unlimited%20%5B2018%5D%20Bengali%20Movie%20%201080p%20Webdl%20x%20264%20AVC%20AAC%20DD-2.0%20%5BCinemaghar%5D%20-%201ST%20ON%20NET.mp4
 
 
@@ -334,9 +334,12 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Rocky%20%282013%29%201080p%20WEBDL.mp4
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZGasp6czaKZN35O6oON3mdqL66s4or4Pfjhw07IxBTUSVNXgjAGdqL3k&s=10" group-title="SOHAM | MOVIES" ,BAGH BONDI KHELA
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Bagh%20Bandi%20Khela%20%282018%29%20Bengali%20Movies%201080p/Bagh%20Bandi%20Khela%20%5B2018%5D%20Bengali%20Movies%201080p%20Untouched%20Webdl%20x%20264%20AVC%20AAC%20DD%20-%202.0%20%5BCinemaghar%5D%20.mp4
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQckDtWvmODksZ2xri8DOGSNYcaOnYGx_P4gjmWBGDXwwLzBuSPHFHPihc1&s=10" group-title="SPECIAL | MOVIES" ,CHIRODINI TUMI JE AMER
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282008%29/Chirodini%20Tumi%20Je%20Amar%20%282008%29%20Bengali%201080p/Chirodini%20Tumi%20Je%20Amar%20%282008%29%20Full%20Movie%201080p%20HD%20WEB-DL.mp4
 
 
 
