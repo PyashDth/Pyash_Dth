@@ -33,7 +33,7 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2014/Unfreedom%20%282014%29%201080
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJh5bhhW/7094.jpg" group-title="ALEX_STAR🥵", ALEX_STAR
-m3u8 link
+https://video-cf.xhcdn.com/hBNBFuyzVKCw9RLTIFfpaGvdxzPfPfckJqcram0PzHs%3D/115/1728464400/media=hls4/multi=256x144:144p,426x240:240p,854x480:480p,1280x720:720p,1920x1080:1080p,3840x2160:2160p/023/615/005/720p.h264.mp4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2ybc3DDj/7095.jpg" group-title="DANI_DANEILS🥶", DANI_DANEILS
@@ -88,8 +88,40 @@ m3u8 link
 m3u8 link
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJh5bhhW/7094.jpg" group-title="ALEX_STAR🥵", ALEX_STAR
+https://video-nss.xhcdn.com/ehmYr3peSLREgSfsTmVQZQ==,1728464400/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:/023/739/109/720p.av1.mp4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJh5bhhW/7094.jpg" group-title="ALEX_STAR🥵", ALEX_STAR
+https://video-cf.xhcdn.com/9ZoSF4GD3Wn11kVWfYtrCFEq98ZEvoIBF0Yj72cvuQo%3D/87/1728464400/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:/022/389/211/720p.av1.mp4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJh5bhhW/7094.jpg" group-title="ALEX_STAR🥵", ALEX_STAR
+https://video-cf.xhcdn.com/iy7JrE8KzrdAhf7d1Co%2FAMEU2Up%2BBD6ItedOVIn6l28%3D/104/1728464400/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:/025/049/267/720p.av1.mp4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJh5bhhW/7094.jpg" group-title="ALEX_STAR🥵", ALEX_STAR
+https://video-cf.xhcdn.com/DknHNalTeCe8YPicP8cYNW8u454wjtUDRHbK2nPS9BE%3D/104/1728464400/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:/022/746/695/720p.av1.mp4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJh5bhhW/7094.jpg" group-title="ALEX_STAR🥵", ALEX_STAR
+https://video-nss.xhcdn.com/iCPsVWCY_XBPmqQMQnIPcA==,1728464400/media=hls4/multi=256x144:144p,426x240:240p,854x480:480p,1280x720:720p/021/394/259/720p.h264.mp4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJh5bhhW/7094.jpg" group-title="ALEX_STAR🥵", ALEX_STAR
+https://video-gcr.xhcdn.com/ee4f539d454bc4da533de16e75deef9b/87/1728464400/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:/020/153/382/720p.av1.mp4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJh5bhhW/7094.jpg" group-title="ALEX_STAR🥵", ALEX_STAR
+https://video-gcr.xhcdn.com/d6dec50a43452a435312f0e6262660fa/99/1728464400/media=hls4/multi=256x144:144p,426x240:240p,854x480:480p,1280x720:720p,1920x1080:1080p/022/400/069/720p.h264.mp4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJh5bhhW/7094.jpg" group-title="ALEX_STAR🥵", ALEX_STAR
+https://video-cf.xhcdn.com/865tSlctFpiZtW%2BPVTPitohyPYxpLwnOh8GQDUOJFbM%3D/87/1728464400/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:/020/875/722/720p.av1.mp4.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="ADULT_XXX",  
-m3u8 link
+
 
 
 
