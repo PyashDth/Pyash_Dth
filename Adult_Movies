@@ -76,15 +76,20 @@ m3u8 link
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="" group-title="ADULT_XXX",  
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xGqg6wf/7227.jpg" group-title="ADULT_XXX", MARISKA_X
 m3u8 link
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjrFvXwx/7228.jpg" group-title="ADULT_XXX", ARMANI_BLACK
+m3u8 link
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wCbqvmg/7230.jpg" group-title="ADULT_XXX", REENA_SKY
+m3u8 link
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="ADULT_XXX",  
+m3u8 link
 
 
 
