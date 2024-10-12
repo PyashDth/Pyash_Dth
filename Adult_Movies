@@ -52,6 +52,10 @@ m3u8
 m3u8 link
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4W93X8Q/7566.jpg" group-title="LANA_RHAODES💋", LANA_RHADDES
+m3u8 link
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdLb0N9/7220.jpg" group-title="ANGEL_MALINA🤩 ", ANGEL_WHITE 1
 m3u8
 
@@ -84,12 +88,17 @@ m3u8
 m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5xkdZ3R/7225.jpg" group-title="ARIALA_CHERI🤐", ARIALA_FERARA 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5xkdZ3R/7225.jpg" group-title="ARIALA_", ARIALA_FERARA 1
 m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3tdW3vq/7222.jpg" group-title="ARIALA_CHERI🤐", CHERI_DEVILLA 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3tdW3vq/7222.jpg" group-title="CHERI_BRANDI😺", CHERI_DEVILLA 1
 m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdTZgKvk/7565.jpg" group-title="CHERI_BRANDI😺", BRANDI_LOVE 1
+m3u8 link
+
 
 
 ###########
