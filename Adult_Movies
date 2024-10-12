@@ -52,11 +52,11 @@ m3u8
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4W93X8Q/7566.jpg" group-title="LANA_LEAH💋", LANA_RHADDES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4W93X8Q/7566.jpg" group-title="LANA_LEAH💋", LANA_RHADDES 1
 m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yDmg9z0/7567.jpg" group-title="LANA_LEAH💋", LEAH_GOTTI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yDmg9z0/7567.jpg" group-title="LANA_LEAH💋", LEAH_GOTTI 1
 m3u8 
 
 
@@ -337,11 +337,36 @@ m3u8
 m3u8 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4W93X8Q/7566.jpg" group-title="LANA_LEAH💋", LANA_RHADDES 2
+m3u8 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yDmg9z0/7567.jpg" group-title="LANA_LEAH💋", LEAH_GOTTI 2
+m3u8 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4W93X8Q/7566.jpg" group-title="LANA_LEAH💋", LANA_RHADDES 3
+m3u8 
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yDmg9z0/7567.jpg" group-title="LANA_LEAH💋", LEAH_GOTTI 3
+m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4W93X8Q/7566.jpg" group-title="LANA_LEAH💋", LANA_RHADDES 4
+m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yDmg9z0/7567.jpg" group-title="LANA_LEAH💋", LEAH_GOTTI 4
+m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4W93X8Q/7566.jpg" group-title="LANA_LEAH💋", LANA_RHADDES 5
+m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yDmg9z0/7567.jpg" group-title="LANA_LEAH💋", LEAH_GOTTI 5
+m3u8 
 
 
 
