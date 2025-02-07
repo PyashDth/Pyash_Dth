@@ -36,6 +36,10 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1996/Kama%20Sutra%
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2014/Unfreedom%20%282014%29%201080p/Unfreedom%202014.Hindi.1080p.WEBRip.x264.AAC.5.1.-.Hon3yHD.mp4
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="ROMANTIC | MOVIES", Channel Name 
+m3u8 link
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJh5bhhW/7094.jpg" group-title="PORNSTAR", ALEX_STAR 1
 m3u8
 
