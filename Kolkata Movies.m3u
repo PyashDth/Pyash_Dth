@@ -71,8 +71,16 @@ https://fmftp.net/Data/movies/indianbangla/1951_2017/Shedin%20Dekha%20Hoyechilo%
 http://movieswala.net/Data/movies/indianbangla/2000-2021/Paglu%20%282011%29/Paglu%20%282011%29.mkv
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9K1JJ5X/IMG-20240825-112901.jpg" group-title="DEV | MOVIES", PAGLU 2 
+https://fmftp.net/Data/movies/indianbangla/1951_2017/Paglu%202%282012%29/Paglu%202%20%282012%29.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhm2VpHd/Romeo-2011-Movie-Poster.jpg" group-title="DEV | MOVIES", ROMEO
 https://fmftp.net/Data/movies/indianbangla/1951_2017/Romeo%20%282011%29%20720/Romeo%20%282011%29%20720.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85SZhJzP/MV5-BZjlm-YTQ0-Nm-It-Nzkx-Mi00-MWVm-LWI1-M2-It-ZTc4-Y2-Ux-Yz-Rm-Ym-Qz-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-A3-OTI5-Mj-A-V1.jpg" group-title="DEV | MOVIES",  BINDAAS
+https://fmftp.net/Data/movies/indianbangla/1951_2017/Bindaas%20%282014%29/Bindaas%20%282014%29.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N014fskh/IMG-20240824-215947.jpg" group-title="DEV | MOVIES", CHALLENGE 2
@@ -89,10 +97,6 @@ https://fmftp.net/Data/movies/indianbangla/1951_2017/Chander%20Pahar%282013%29/C
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tC3C58kq/IMG-20240824-215710.jpg" group-title="DEV | MOVIES", KHOKA 420
 https://fmftp.net/Data/movies/indianbangla/1951_2017/Khoka420%282013%29/Khoka420.mp4
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85SZhJzP/MV5-BZjlm-YTQ0-Nm-It-Nzkx-Mi00-MWVm-LWI1-M2-It-ZTc4-Y2-Ux-Yz-Rm-Ym-Qz-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-A3-OTI5-Mj-A-V1.jpg" group-title="DEV | MOVIES",  BINDAAS
-https://fmftp.net/Data/movies/indianbangla/1951_2017/Bindaas%20%282014%29/Bindaas%20%282014%29.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vks1Fv5g/images-2.jpg" group-title="DEV | MOVIES", LOVE EXPRESS 
@@ -127,10 +131,6 @@ http://movieswala.net/Data/movies/indianbangla/2000-2021/Shudhu%20Tomari%20Jonyo
 https://fmftp.net/Data/movies/indianbangla/1951_2017/Yoddha%282014%29/Yoddha%20720.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9K1JJ5X/IMG-20240825-112901.jpg" group-title="DEV | MOVIES", PAGLU 2 
-https://fmftp.net/Data/movies/indianbangla/1951_2017/Paglu%202%282012%29/Paglu%202%20%282012%29.mp4
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xT3j1fMB/images-2.jpg" group-title="DEV | MOVIES", HEROGIRI
 http://movieswala.net/Data/movies/indianbangla/2000-2021/Herogiri%20%282015%29/Herogiri%20%282015%29.mkv
 
@@ -152,7 +152,7 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3x2rtVZr/images-1.jpg" group-title="JEET | MOVIES", DEEWANA
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282013%29/Deewana%20%282013%29%20Bengali%201080p%20WEB-DL/Deewana%20%282013%29%20Bengali%201080p%20WEB-DL.mp4
+http://server3.ftpbd.net/FTP-3/Bang%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282013%29/Deewana%20%282013%29%20Bengali%201080p%20WEB-DL/Deewana%20%282013%29%20Bengali%201080p%20WEB-DL.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15nY1Z2S/MV5-BODAw-NWU2-YTMt-Nz-A4-Ni00-NDZl-LWIx-MTUt-ZDg1-MGIz-Njlh-NWUx-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3-OTE-V1.jpg" group-title="JEET | MOVIES", BESH KORECHI PREAM KORECHI
