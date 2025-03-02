@@ -12,7 +12,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="http://45.250.20.254/collection/English%20Movies%20%281080p%29/%281997%29%201080p/Titanic%20%281997%29%201080p/a0_AL_.jpg" group-title="HINDI DUBBED | MOVIES", TITANIC 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnwRJ9sD/634e36686f87062ff57e6463-titanic-movie-poster-2-sided-original.jpg" group-title="HINDI DUBBED | MOVIES", TITANIC 
 
 
 
@@ -22,6 +22,10 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyTm5fyq/97.jpg" group-title="PYASH | DTH", T.me@Pyash8989
 ##########
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYFhqKC1/MV5-BN2-Rl-ODcx-OWQt-ZGNk-Yi00-ZDQw-LWE4-Yj-At-Y2-Nm-NWUx-NGVh-NGFj-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="BOLLYWOOD | MOVIES", KABIR SING
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSCRqF1H/6001.jpg" group-title="BOLLYWOOD | MOVIES", BHOOTNATH
@@ -143,6 +147,14 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMkGwdG3/6039.jpg" group-title="SOUTH INDIAN | MOVIES", PUSHPA 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqpxKsHY/MV5-BNWU1-ZWFh-NGQt-ZDhl-ZC00-ZWFl-LTlm-Nm-Et-N2-Vm-Ym-Zi-N2-Y5-Zm-Q2-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="SOUTH INDIAN | MOVIES", PUSHPA 2
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtdx3Xb/6035.jpg" group-title="SOUTH INDIAN | MOVIES", NO 1 MR. PERFECT 
 
 
@@ -155,11 +167,11 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYGdQvz9/6038.jpg" group-title="SOUTH INDIAN | 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYGdQvz9/6038.jpg" group-title="SOUTH INDIAN | MOVIES", SARAINODU 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMkGwdG3/6039.jpg" group-title="SOUTH INDIAN | MOVIES", PUSHPA 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYs4KhKg/MV5-BZj-Uy-Zjdm-Yj-Mt-ODgx-NC00-NGQx-LWFk-Nj-Et-NDQ4-M2-Zh-N2-Zi-ZGVm-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="SOUTH INDIAN | MOVIES", FAMILY STAR
 
 
 
@@ -227,8 +239,11 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3LwX3VC/MV5-BZTI3-ZTEx-Yzkt-MDcw-NC00-Mz-Uw-LTg2-NDQt-Yz-Bk-Yj-Ax-MDAy-Nz-Vk-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="HINDI DUBBED | MOVIES", ALIVE
 
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kjjbr0QJ/MV5-BODg3-ZTM2-YWQt-ZDE5-Ny00-NGNi-LTkz-Yjgt-YWVl-Yj-Nk-OTg5-NDI1-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" group-title="HINDI DUBBED | MOVIES", WORLD WAR Z
 
 
 
