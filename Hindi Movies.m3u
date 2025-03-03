@@ -12,7 +12,7 @@ http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282015
 m
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc60rRyP/6020.jpg" group-title="HORROR | MOVIES", ALONE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc60rRyP/6020.jpg" group-title="HINDI HORROR | MOVIES", ALONE
 m
 
 
@@ -100,39 +100,31 @@ https://fmftp.net/Data/movies/bollywood/2000_2014/Robot%20%282010%29/Robot%20201
 https://fmftp.net/Data/movies/bollywood/2000_2014/Dhoom%203%20%282013%29/Dhoom.3.2013.720p.BluRay.x264.ShAaNiG.com.mkv
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCY0z01n/6021.jpg" group-title="HORROR | MOVIES", THE RING
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Gs37v5/6024.jpg" group-title="HINDI HORROR | MOVIES", 1921 
 m
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/503f5ZXv/6022.jpg" group-title="HORROR | MOVIES", THE CONJURING 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NGSRmFJ/6025.jpg" group-title="HINDI HORROR | MOVIES", RAZZ 3
 m
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0Gs37v5/6024.jpg" group-title="HORROR | MOVIES", 1921 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKLDb416/6026.jpg" group-title="HINDI HORROR | MOVIES", KHAMOSHIYAN
 m
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NGSRmFJ/6025.jpg" group-title="HORROR | MOVIES", RAZZ 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ1Qk7kW/6028.jpg" group-title="HINDI HORROR | MOVIES", 1920 LONDON
 m
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKLDb416/6026.jpg" group-title="HORROR | MOVIES", KHAMOSHIYAN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpqdc4qf/6027.jpg" group-title="HINDI HORROR | MOVIES", RAZZ REBOT
 m
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ1Qk7kW/6028.jpg" group-title="HORROR | MOVIES", 1920 LONDON
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw9f7QVW/6023.jpg" group-title="HINDI HORROR | MOVIES", 1920
 m
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpqdc4qf/6027.jpg" group-title="HORROR | MOVIES", RAZZ REBOT
-m
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dw9f7QVW/6023.jpg" group-title="HORROR | MOVIES", 1920
-m
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL1mZsqt/6029.jpg" group-title="HORROR | MOVIES", KANCHANA 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL1mZsqt/6029.jpg" group-title="HINDI HORROR | MOVIES", KANCHANA 2
 m
 
 
@@ -252,12 +244,21 @@ m
 m
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCY0z01n/6021.jpg" group-title="FOREIGN | MOVIES", THE RING
+m
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/503f5ZXv/6022.jpg" group-title="FOREIGN | MOVIES", THE CONJURING 
+m
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3LwX3VC/MV5-BZTI3-ZTEx-Yzkt-MDcw-NC00-Mz-Uw-LTg2-NDQt-Yz-Bk-Yj-Ax-MDAy-Nz-Vk-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="HOLLYWOOD | MOVIES", ALIVE
 m
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kjjbr0QJ/MV5-BODg3-ZTM2-YWQt-ZDE5-Ny00-NGNi-LTkz-Yjgt-YWVl-Yj-Nk-OTg5-NDI1-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" group-title="HOLLYWOOD | MOVIES", WORLD WAR Z
 m
+
 
 
 
