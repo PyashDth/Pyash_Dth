@@ -9,11 +9,11 @@ http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282015
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnwRJ9sD/634e36686f87062ff57e6463-titanic-movie-poster-2-sided-original.jpg" group-title="HOLLYWOOD | MOVIES", TITANIC 
-m
+http://103.82.8.194/Data/English/hollywood/1900-2000/Titanic%20%281997%29/Titanic.1997.1080p.BluRay.x264-%5BYTS.AG%5D.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc60rRyP/6020.jpg" group-title="HINDI HORROR | MOVIES", ALONE
-m
+https://fmftp.net/Data/movies/bollywood/2015_2017/Alone%20%282015%29/Alone%202014%20Hindi%20720p%20HDRip%20x264%20AAC...Hon3y.mkv
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15zRQZSK/6920.jpg" group-title="FOREIGN | MOVIES", KKN DI DESA PENARI
@@ -125,7 +125,7 @@ https://fmftp.net/Data/movies/bollywood/2000_2014/Raaz%203%20The%20Third%20Dimen
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKLDb416/6026.jpg" group-title="HINDI HORROR | MOVIES", KHAMOSHIYAN
-https://fmftp.net/Data/movies/bollywood/2015_2017/Khamoshiyan%20%282015%29/Khamoshiyan.2015720p.DVDripBDPLEX.mkv
+http://showtimebd.com/ftpdata/disk2/Hindi/720p%20&%201080p%20BluRay/Khamoshiyan%20(2015)%20720p%20BluRay.mkv
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Yz8C14C/MV5-BOGU4-Njdh-OGEt-ZTVi-MS00-Nz-A4-LWE4-NDgt-Nm-Iz-MWYy-NWU3-ZTRk-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="HINDI HORROR | MOVIES", KANCHANA
@@ -134,10 +134,6 @@ http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282011
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VL1mZsqt/6029.jpg" group-title="HINDI HORROR | MOVIES", KANCHANA 2
 http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282015%29/Kanchana%202%20%282015%29%20720p%20%5BDual%20Audio%5D/Kanchana%202%20%282015%29%20720p%20UNCUT%20HDRip%20x264%20%5BDual%20Audio%5D%20%5BHindi%20DD%202.0%20-%20Tamil%20DD%205.1%5D.mkv
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zG1mTLDx/MV5-BODM3-Mj-Q2-ODAx-NV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-NTEy-ODQw-NDE-V1.jpg" group-title="HINDI HORROR | MOVIES", ALONE
-https://fmftp.net/Data/movies/bollywood/2015_2017/Alone%20%282015%29/Alone%202014%20Hindi%20720p%20HDRip%20x264%20AAC...Hon3y.mkv
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YFH11Bx/6032.jpg" group-title="SOUTH INDIAN | MOVIES", BAAHUBALI THE CONCLUSION 
@@ -212,7 +208,7 @@ http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282020
 http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282022%29/Sita%20Ramam%20%282022%29%201080p%20%5BDual%20Audio%5D/Sita%20Ramam%20%282022%29%20UNCUT%201080p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%20DD5.1%2BTelugu%205.1%5D%20-DMV.mkv
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fypJd9tc/MV5-BNWMw-ODYy-Mj-Qt-MTcz-Mi00-NTQ1-LWFk-Yj-It-MGJh-MWRk-Y2-E3-NDAy-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" group-title="SOUTH INDIAN | MOVIES", SAAKSHYAM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNM5XGQm/720a640e0f11eda042bd74ec6338a1cc.jpg" group-title="SOUTH INDIAN | MOVIES", SAAKSHYAM
 http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282018%29/Saakshyam%20%282018%29%201080p%20%5BDual%20Audio%5D/Saakshyam%20%282018%29%20UNCUT%201080p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%20DD2.0%2BTelugu%202.0%5D%20-DMV.mkv
 
 
@@ -264,12 +260,16 @@ m
 m
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hxnzf9rS/MV5-BMTkw-OTQ4-OTg0-OV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Mz-Qy-OTM0-OTE-V1.jpg" group-title="HOLLYWOOD | MOVIES", TRAIN TO BUSHAN
+http://showtimebd.com/ftpdata/disk2/Others/Foreign%20movies/Train%20To%20Busan%20(2016)%20720p%20BluRay%20Hindi%20Dubbed.mkv
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3LwX3VC/MV5-BZTI3-ZTEx-Yzkt-MDcw-NC00-Mz-Uw-LTg2-NDQt-Yz-Bk-Yj-Ax-MDAy-Nz-Vk-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="HOLLYWOOD | MOVIES", ALIVE
-m
+http://103.82.8.194/Data/English/hollywood/2020/ALIVE (2020)/ALIVE.2020.720p.Naver.WEB-DL.x26.850MB-Mkvking.mkv
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kjjbr0QJ/MV5-BODg3-ZTM2-YWQt-ZDE5-Ny00-NGNi-LTkz-Yjgt-YWVl-Yj-Nk-OTg5-NDI1-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" group-title="HOLLYWOOD | MOVIES", WORLD WAR Z
-m
+http://showtimebd.com/ftpdata/others/2017/28.11.2017/World%20War%20Z%20(2013)%20Dual%20Audio.mkv
 
 
 
