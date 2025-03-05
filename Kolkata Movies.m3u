@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yJjtfJy/IMG-20240825-112836.jpg" group-title="DEV | MOVIES", I LOVE YOU 
-http://movieswala.net/Data/movies/indianbangla/2000-2021/I%20Love%20You%20%282007%29/I%20Love%20You%20-2007.MP4
+http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282007%29/I%20Love%20You%20%282007%29%20720p/I%20Love%20You%20%282007%29%20Bengali%20720p%20WEB-DL%20x264%20AAC%20-MLSBD.mkv
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDSWMGRJ/images-5.jpg" group-title="JEET | MOVIES", 100% LOVE 
@@ -13,7 +13,7 @@ https://cdn.bandhon.com.bd/download/indian_bangla/0-2009/Prem%20Amar%20(2009)/Pr
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8Rhv15J/IMG-20240824-215923.jpg" group-title="HERON | MOVIES", MON JE KORE URU URU
-m3u8
+http://103.82.8.194/Data/Indian%20Bangla/0000-2010/Mon%20Je%20Kore%20Uru%20Uru%202010.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4pkXRjF/images-1.jpg" group-title="YASH | MOVIES", GANGSTER
@@ -37,7 +37,7 @@ http://movieswala.net/Data/movies/indianbangla/2000-2021/Adventures%20of%20Jojo%
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JdzrGyP/images-2.jpg" group-title="DEV | MOVIES", MON MANE NA
-https://content.discoveryftp.net/secure/TOcAe02iXu49kL6lebY11A/1740900930/Movies/Bangla/2008/Mon Mane Na/Mon.Mane.Na.2008.Bengali.1080p.WEBRip.x264.mp4
+http://showtimebd.com/ftpdata/disk2018/May%20(2018)/23%20May/Mon%20Mane%20Na%20(2008)%20.mkv
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pxy0JzQk/images-1.jpg" group-title="DEV | MOVIES", PREMER KAHINI
@@ -53,7 +53,7 @@ https://cdn.bandhon.com.bd/download/indian_bangla/0-2009/Poran%20Jaye%20Jolia%20
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcMVTQP/images-3.jpg" group-title="DEV | MOVIES", BOLO NA TUMI AMER
-https://fmftp.net/Data/movies/indianbangla/1951_2017/Bolo%20Na%20Tumi%20Amar%20%282010%29/BLTMR%20720p.mp4
+http://showtimebd.com/ftpdata/summer2019/1.May%202019/22%20May%202019/4.Movies/Bolo%20Na%20Tumi%20Amar%20(2010)%20.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhV8vhHt/images.jpg" group-title="DEV | MOVIES", DUI PRITHIBI 
@@ -245,7 +245,7 @@ https://cdn.bandhon.com.bd/download/indian_bangla/2012/Macho%20Mustanaa%20(2012)
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZDF9f4F/images-13.jpg" group-title="HERON | MOVIES", MOJNU
-https://cdn.bandhon.com.bd/download/indian_bangla/2013/Majnu%20(2013)/Majnu%20(2013)%20SDTV.mp4?type=movies&id=11286
+http://103.82.8.194/Data/Indian%20Bangla/2013/Majnu%20%20%282013%29.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j566DppL/IMG-20240824-213305.jpg" group-title="HERON | MOVIES", JAMAI BADAL
@@ -309,7 +309,7 @@ http://movieswala.net/Data/movies/indianbangla/2000-2021/Tomake%20Chai%20%282017
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3HyqVQr/images-21.jpg" group-title="BONNY | MOVIES", GIRL FRIEND
-m3u8
+http://showtimebd.com/ftpdata/2019/2.April%202019/29%20April%202019/1.Movies/Girlfriend%20(2018)%20WEB-DL.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tDfQLSH/images-22.jpg" group-title="BONNY | MOVIES", KE TUMI NANDINI
@@ -321,7 +321,7 @@ http://movieswala.net/Data/movies/indianbangla/2000-2021/Raja%20Rani%20Raji%20%2
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kzh8JJTg/06b79a95648787-5e9c8cfdc0325.jpg" group-title="BONNY | MOVIES", JANBAZZ 
-https://content.discoveryftp.net/secure/uhfkgQnzuTOFrzzRNRSFkg/1740901025/Movies/Bangla/2019/Jaanbaaz/Jaanbaaz 2019 Bengali 1080P ZEE5 WEBRiP x265 HEVC AAC 2.0 [shadow].mkv
+ http://103.82.8.194/Data/Indian%20Bangla/2019/Jaanbaaz%20%282019%29/Jaanbaaz%202019%20Bangla%20Full%20Movie%20720p%20HDRip%20700MB.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqQNNWzw/images-24.jpg" group-title="BONNY | MOVIES", DAL BATI CHURMA 
