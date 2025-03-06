@@ -53,7 +53,7 @@ https://utube.buddyxiptv.com/@dbcnewstv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png" group-title="KOLKATA | CHENNAL", Jalsha Movies Hd
-http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA-MOVIES-HD/live.mpd
+http://45.148.145.57/IN_JALSHAMOVIES/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="KOLKATA | CHENNAL", Zee Bangla Hd 
@@ -89,7 +89,7 @@ https://colorsscreen.com/live.php?id=1657&extension=.m3u8|Referer=https://colors
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png" group-title="KIDS | CHENNAL", Disney HD
-https://flixtronic.top/mc/hex.m3u8?id=156000&e=.m3u8
+http://119.152.240.15:8001/play/a0ct/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS | CHENNAL", PoGo HD
@@ -97,7 +97,7 @@ https://fmrx.short.gy/bdix_iptv_hub/pogo.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS | CHENNAL", Hungama HD
-http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
+http://119.152.240.15:8001/play/a0cs/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS | CHENNAL", Sonic HD
