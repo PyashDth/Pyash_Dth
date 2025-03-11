@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BD | CHENNAL", SOMOY TV 
-http://xtv.ooo:8080/live/927382370/837382809/245925.m3u8
+http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="KOLKATA | CHENNAL", Star Jalsha HD
@@ -45,11 +45,11 @@ https://bdix.proximitybd.xyz/buka.php?id=live-02
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD | CHENNAL", Jamuna Tv News
-https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
+http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BD | CHENNAL", DBC News 
-https://utube.buddyxiptv.com/@dbcnewstv.m3u8
+http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png" group-title="KOLKATA | CHENNAL", Jalsha Movies Hd
