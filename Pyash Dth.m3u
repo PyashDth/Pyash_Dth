@@ -96,8 +96,8 @@ http://opplex.ch:8080/live/15459096/5370096/167551.ts
 https://fmrx.short.gy/bdix_iptv_hub/pogo.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS | CHENNAL", Hungama HD
-http://119.152.240.15:8001/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS | CHENNAL", Hungama 
+http://opplex.ch:8080/live/15459096/5370096/150480.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS | CHENNAL", Sonic HD
@@ -125,15 +125,15 @@ http://14.102.123.50:5001/live/1341.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png" group-title="KIDS | CHENNAL", Disney 2
-https://fifabd.site/JIOBE/play.m3u8?id=1091
+http://119.152.240.15:8001/play/a0ct/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS | CHENNAL", PoGo 2
 https://fmrx.short.gy/bdix_iptv_hub/pogo.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS | CHENNAL", Hungama
-http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS | CHENNAL",Hungamah
+http://119.152.240.15:8001/play/a0cs/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nmqxm7q/20240812-184149.png" group-title="MUSIC | CHENNAL", Doom Music Bangla
