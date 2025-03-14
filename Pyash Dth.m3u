@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BD | CHENNAL", SOMOY TV 
-http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BD | CHENNAL", SOMOY TV
+https://tvsen2.aynascope.net/8b9qxpFy/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="KOLKATA | CHENNAL", Star Jalsha HD
@@ -53,7 +53,7 @@ http://opplex.ch:8080/live/10071975/10071975/245917.ts
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BD | CHENNAL", DBC News 
-http://opplex.ch:8080/live/10071975/10071975/245914.ts
+https://tvs1.aynaott.com/dbcnews/index.m3u8?token=950fa139a730d33f9899d575376aac82f693369d-67de8c4f1d22d379bbf03e0fab239fd5-1741959135-1741948035&amp;remote=no_check_ip
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png" group-title="KOLKATA | CHENNAL", Jalsha Movies Hd
@@ -69,7 +69,7 @@ http://opplex.ch:8080/live/10071975/10071975/221259.ts
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="BD | CHENNAL", Channel 24 
-http://opplex.ch:8080/live/10071975/10071975/245969.ts
+https://tvs1.aynaott.com/channel24/index.m3u8?token=a157e6844ae93fe384c1aa747a68f1085b888cee-ff89199d92cc5ea06b113b8323a323c8-1741959135-1741948035&amp;remote=no_check_ip
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA | CHENNAL", Sony Aath
