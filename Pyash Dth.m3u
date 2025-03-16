@@ -252,20 +252,20 @@ m3
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", BFLIX 
-http://opplex.ch:8080/live/10071975/10071975/104190.ts
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2422%2Flogo%2F240x240%2Fmobile_logo_037670001666785867.png&w=256&q=75" group-title="INDIA | CHENNAL", SONY WAH
+m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", ARY HD
-http://opplex.ch:8080/live/10071975/10071975/221337.ts
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F353%2Flogo%2F240x240%2Fmobile_logo_044841001666779831.png&w=256&q=75" group-title="INDIA | CHENNAL", SONY MAX 2
+m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", GEO ENTERTAINMENT 
-http://opplex.ch:8080/live/10071975/10071975/221338.ts
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F612%2Flogo%2F240x240%2Fmobile_logo_091186001666784752.png&w=256&q=75" group-title="INIDA | CHENNAL", SONY YAY
+m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", HUM TV
-http://opplex.ch:8080/live/10071975/10071975/25981.ts
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2419%2Flogo%2F240x240%2Fmobile_logo_287412001666784602.png&w=256&q=75" group-title="INDIA | CHENNAL", SONY PIX HD
+m3
 
 
 
@@ -289,7 +289,7 @@ http://opplex.ch:8080/live/15459096/5370096/150480.ts
 http://opplex.ch:8080/live/15459096/5370096/34011.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png" group-title="KIDS | CHENNAL", Disney 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2jbcj3m/20240817-141832.png" group-title="KIDS | CHENNAL", Disney 2
 https://fifabd.site/JIOBE/play.m3u8?id=1091
 
 
@@ -301,11 +301,11 @@ http://opplex.ch:8080/live/15459096/5370096/76722.ts
 m
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS | CHENNAL",Hungamah 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzXD9KY/20240818-182658.png" group-title="KIDS | CHENNAL",Hungamah 2
 https://maxplay-tv.fun/op.php?id=1441461
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS | CHENNAL", Duronto
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n7bjFdc/20240817-171812.png" group-title="KIDS | CHENNAL", Duronto
 m3
 
 
@@ -314,58 +314,31 @@ m3
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg" group-title="SPORTS | CHENNAL", T Sports SD
-http://188.241.218.163/live/134134/134134/113069.ts?token=ShJcU0BbQQNHCwFZAQADAAtSVQhRBlFWUltVUQBTAAUFAlFUVlAGDVUbGBpEF0dcWF1vWQIXXlAAUVIBXEgRR0JVRm1aV0EDRwgFCAdUBwwbHBJED1gBQwtTVQNXVAIEAgEGHhFDCl1HAxYAB1cADA4SHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCF9FWF4fEQFQEUtVTFJBDxsIAgYGRBlGAl4XDEMXHREIE3JwEB8RBkERXFpLXgxbGwMSRENEGUYIQj0QUhYQQVdQXVFAEQlBCUcVFlVWG2paVl5eVQVBDQ5fEUANR1URHhNdW1xaRwxLOkldXBVZFwwKCAICUBcZ
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HrJVFC8/20240826-230453.png" group-title="SPORTS | CHENNAL", Gazi Tv HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SPORTS | CHENNAL", T Sports SD
 m3
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHENNAL", Sony Ten 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SPORTS | CHENNAL", Gazi Tv HD
+m3
+
+
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F603%2Flogo%2F240x240%2Fmobile_logo_237244001666780563.png&w=256&q=75" group-title="SPORTS | CHENNAL", Sony Ten 1
 http://opplex.ch:8080/live/10071975/10071975/167570.ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHENNAL", Sony Ten 2 
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F604%2Flogo%2F240x240%2Fmobile_logo_093449001666780976.png&w=256&q=75" group-title="SPORTS | CHENNAL", Sony Ten 2 
 http://opplex.ch:8080/live/10071975/10071975/167571.ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHENNAL", Sony Ten 3
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2418%2Flogo%2F240x240%2Fmobile_logo_992280001666781086.png&w=256&q=75" group-title="SPORTS | CHENNAL", Sony Ten 3
 http://opplex.ch:8080/live/10071975/10071975/167572.ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHENNAL", Sony Ten 4
-m
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHENNAL", Sony Ten 5
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F606%2Flogo%2F240x240%2Fmobile_logo_689539001672145843.png&w=256&q=75" group-title="SPORTS | CHENNAL", Sony Ten 5
 http://opplex.ch:8080/live/10071975/10071975/167580.ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHENNAL", Star Sports 1
-http://opplex.ch:8080/live/10071975/10071975/167575.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHENNAL", Star Sports 2
-http://opplex.ch:8080/live/10071975/10071975/167576.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS | CHENNAL", Star Sports 3
-m
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS | CHENNAL", Willow Hd
-m3
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS | CHENNAL", Astro Cricket 
-m3
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS | CHENNAL", TNT Sports 
-m3
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS | CHENNAL", Star Sport S1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SPORTS | CHENNAL", Astro Cricket 
 m3
 
 
@@ -382,11 +355,11 @@ http://opplex.ch:8080/live/10071975/10071975/388460.ts
 http://opplex.ch:8080/live/10071975/10071975/26.ts
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="ISLAMIC | CHENNAL", Peace Tv Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="ISLAMIC | CHENNAL", Peace Tv Bangla
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="ISLAMIC | CHENNAL", Peace Tv English
+#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="ISLAMIC | CHENNAL", Peace Tv English
 m3
 
 
