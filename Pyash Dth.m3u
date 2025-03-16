@@ -49,12 +49,12 @@ Xxxm3u8xxX
 
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", BTV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BD | CHENNAL", BTV
 http://opplex.ch:8080/live/10071975/10071975/245930.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BD | CHENNAL", DBC News 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3RNmkY/20240816-083023.png" group-title="BD | CHENNAL", DBC News 
 http://opplex.ch:8080/live/10071975/10071975/245914.ts
 
 
@@ -66,43 +66,43 @@ http://opplex.ch:8080/live/10071975/10071975/245969.ts
 http://opplex.ch:8080/live/10071975/10071975/245916.ts
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", Akhone Tv 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z9gSdp/20240815-181521.png" group-title="BD | CHENNAL", Ekhone Tv 
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", Maasranga Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkmsTgZ/20240817-133855.png" group-title="BD | CHENNAL", Maasranga Tv
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", Deepto Tv 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n6c0xPh/20240817-133826.png" group-title="BD | CHENNAL", Deepto Tv 
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", Bangla Vision
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6YsQx2/20240815-181504.png" group-title="BD | CHENNAL", Bangla Vision
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", Nagorik Tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" group-title="BD | CHENNAL", Nagorik Tv
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", RTv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T432dfs/20240815-181328.png" group-title="BD | CHENNAL", RTv
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", My Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fkFvQL/20240817-133908.png" group-title="BD | CHENNAL", My Tv
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", Boishakhi Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pL1B7kt/20240815-181452.png" group-title="BD | CHENNAL", Boishakhi Tv
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", EKUSEY TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png" group-title="BD | CHENNAL", EKUSEY TV
 http://opplex.ch:8080/live/10071975/10071975/245937.ts
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", Atn Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dtkcb19/20240815-181402.png" group-title="BD | CHENNAL", Atn Bangla
 http://opplex.ch:8080/live/10071975/10071975/246010.ts
 
 
@@ -114,15 +114,15 @@ http://opplex.ch:8080/live/10071975/10071975/245915.ts
 http://opplex.ch:8080/live/10071975/10071975/245917.ts
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", Chennal 9
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BD | CHENNAL", Chennal 9
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", Movie Bangla
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png" group-title="BD | CHENNAL", Movie Bangla
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", Ananda Tv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="BD | CHENNAL", Ananda Tv
 m3
 
 
