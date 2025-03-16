@@ -47,6 +47,8 @@ Xxxm3u8xxX
 
 
 
+
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", BTV
 http://opplex.ch:8080/live/10071975/10071975/245930.ts
 
@@ -63,6 +65,10 @@ http://opplex.ch:8080/live/10071975/10071975/245914.ts
 http://opplex.ch:8080/live/10071975/10071975/245969.ts
 
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BD | CHENNAL", Iindependent TV
+http://opplex.ch:8080/live/10071975/10071975/245916.ts
+
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="BD | CHENNAL", EKUSEY TV
 http://opplex.ch:8080/live/10071975/10071975/245937.ts
 
@@ -77,6 +83,7 @@ http://opplex.ch:8080/live/10071975/10071975/245915.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD | CHENNAL", Jamuna Tv News
 http://opplex.ch:8080/live/10071975/10071975/245917.ts
+
 
 
 
@@ -131,6 +138,7 @@ http://opplex.ch:8080/live/10071975/10071975/245897.ts
 
 
 
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="INDIA | CHENNAL", Sony Max HD
 http://opplex.ch:8080/live/10071975/10071975/221259.ts
 
@@ -151,6 +159,24 @@ http://opplex.ch:8080/live/10071975/10071975/221253.ts
 http://opplex.ch:8080/live/10071975/10071975/221261.ts
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", GOLDMINES 
+http://opplex.ch:8080/live/10071975/10071975/112973.ts
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", BFLIX 
+http://opplex.ch:8080/live/10071975/10071975/104190.ts
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", ARY HD
+http://opplex.ch:8080/live/10071975/10071975/221337.ts
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", GEO ENTERTAINMENT 
+http://opplex.ch:8080/live/10071975/10071975/221338.ts
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", HUM TV
+http://opplex.ch:8080/live/10071975/10071975/25981.ts
 
 
 
@@ -188,6 +214,7 @@ m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS | CHENNAL",Hungamah 2
 https://maxplay-tv.fun/op.php?id=1441461
+
 
 
 
@@ -234,6 +261,7 @@ m
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27xSN3Z/20240803-172527.png" group-title="ISLAMIC | CHENNAL", Islam Bangla
 http://opplex.ch:8080/live/10071975/10071975/388460.ts
 
@@ -247,10 +275,16 @@ http://opplex.ch:8080/live/10071975/10071975/26.ts
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nmqxm7q/20240812-184149.png" group-title="MUSIC | CHENNAL", Doom Music Bangla
 http://opplex.ch:8080/live/10071975/10071975/245921.ts
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC | CHENNAL", ZOOM MUSIC 
+http://opplex.ch:8080/live/10071975/10071975/66190.ts
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC | CHENNAL", B4U MUSIC 
+http://opplex.ch:8080/live/10071975/10071975/66203.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qp2LXzD/20240803-105126.png" group-title="MUSIC | CHENNAL", 9X JALWA
@@ -263,14 +297,15 @@ m
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hB4Sv2y/20240803-101733.png" group-title="DOCUMENTORY | CHENNAL", Discovery HD
 http://opplex.ch:8080/live/10071975/10071975/206287.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY | CHENNAL", Discovery Bangla
 m
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ngNhxGh/20240803-165452.png" group-title="DOCUMENTORY | CHENNAL", Wild Earth
@@ -280,20 +315,6 @@ http://opplex.ch:8080/live/10071975/10071975/238545.ts
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BD | CHENNAL", Iindependent TV
-http://opplex.ch:8080/live/10071975/10071975/245916.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85dHsswd/MV5-BZTI3-MTBl-N2-It-Zjdk-Ni00-ZWFl-LTgy-YTUt-NTI0-Mm-Yw-NGI2-Mm-Zi-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="SPECIAL | MOVIES", FEMALE 4
-https://cdn.bandhon.com.bd/download/bangladeshi_movie/2024/Female%204%20(2024)/Female%204%20(2024)%20HDTV-1080p.mp4?type=movies&id=11062
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvDWBTxd/7a-Ftathzhnq-WJpdl-Da-JWV37e-Uf-S.jpg" group-title="SPECIAL | MOVIES", OSOMOY
-https://cdn.bandhon.com.bd/download/bangladeshi_movie/2024/Osomoy%20(2024)/Osomoy%20(2024)%20WEBDL-1080p.mp4?type=movies&id=11065
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="24/7 CHENNAL", DORAEMON 
@@ -325,24 +346,6 @@ http://opplex.ch:8080/live/10071975/10071975/344486.ts
 
 
 
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", GOLDMINES 
-http://opplex.ch:8080/live/10071975/10071975/112973.ts
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC | CHENNAL", ZOOM MUSIC 
-http://opplex.ch:8080/live/10071975/10071975/66190.ts
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC | CHENNAL", B4U MUSIC 
-http://opplex.ch:8080/live/10071975/10071975/66203.ts
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", BFLIX 
-http://opplex.ch:8080/live/10071975/10071975/104190.ts
-
-
 #EXTINF:-1 tvg-logo="Logo Link" group-title="24/7 | CHENNAL", CINEMAIN 1
 http://opplex.ch:8080/live/10071975/10071975/389423.ts
 
@@ -359,20 +362,26 @@ http://opplex.ch:8080/live/10071975/10071975/389424.ts
 http://opplex.ch:8080/live/10071975/10071975/389425.ts
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="24/7 | CHENNAL", CINEMAIN 5
-http://opplex.ch:8080/live/10071975/10071975/389426.ts
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", ARY HD
-http://opplex.ch:8080/live/10071975/10071975/221337.ts
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", GEO ENTERTAINMENT 
-http://opplex.ch:8080/live/10071975/10071975/221338.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85dHsswd/MV5-BZTI3-MTBl-N2-It-Zjdk-Ni00-ZWFl-LTgy-YTUt-NTI0-Mm-Yw-NGI2-Mm-Zi-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="SPECIAL | MOVIES", FEMALE 4
+https://cdn.bandhon.com.bd/download/bangladeshi_movie/2024/Female%204%20(2024)/Female%204%20(2024)%20HDTV-1080p.mp4?type=movies&id=11062
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", HUM TV
-http://opplex.ch:8080/live/10071975/10071975/25981.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvDWBTxd/7a-Ftathzhnq-WJpdl-Da-JWV37e-Uf-S.jpg" group-title="SPECIAL | MOVIES", OSOMOY
+https://cdn.bandhon.com.bd/download/bangladeshi_movie/2024/Osomoy%20(2024)/Osomoy%20(2024)%20WEBDL-1080p.mp4?type=movies&id=11065
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="", C 
