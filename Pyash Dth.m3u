@@ -53,9 +53,6 @@ Xxxm3u8xxX
 http://opplex.ch:8080/live/10071975/10071975/245930.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HrJVFC8/20240826-230453.png" group-title="BD | CHENNAL", Gazi Tv HD
-http://188.241.218.163/live/134134/134134/767.ts?token=ShJcU0BbQQNHDgEBBFJTAQhVAVZRDFBSAVpTAFVUVwMDAFYACgpTClEbGBpEF0dcWF1vWQIXXlYHVU4VEBdWQG5ZUBAJEVIIVQkDCgJBGRtNWV1VRA9VVgVQUgZWVwUHHRJEW1cRWRtdCQMIB1sXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVWBg8NEhwSBVoRD0UQGxVfRnF2ExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgJQAgwMAhJN
-
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BD | CHENNAL", DBC News 
 http://opplex.ch:8080/live/10071975/10071975/245914.ts
@@ -179,6 +176,10 @@ http://opplex.ch:8080/live/10071975/10071975/221259.ts
 m
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", Sony Sab
+m3
+
+
 #EXTINF:-1 tvg-logo="" group-title="INDIA | CHENNAL", Colors HD
 http://opplex.ch:8080/live/10071975/10071975/388783.ts
 
@@ -193,6 +194,18 @@ http://opplex.ch:8080/live/10071975/10071975/221261.ts
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", GOLDMINES 
 http://opplex.ch:8080/live/10071975/10071975/112973.ts
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", B4U Movies
+m3
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", Star Gold
+m3
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", Color Complex 
+m3
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", BFLIX 
@@ -248,6 +261,10 @@ m
 https://maxplay-tv.fun/op.php?id=1441461
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS | CHENNAL", Duronto
+m3
+
+
 
 
 
@@ -255,6 +272,9 @@ https://maxplay-tv.fun/op.php?id=1441461
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg" group-title="SPORTS | CHENNAL", T Sports SD
 http://188.241.218.163/live/134134/134134/113069.ts?token=ShJcU0BbQQNHCwFZAQADAAtSVQhRBlFWUltVUQBTAAUFAlFUVlAGDVUbGBpEF0dcWF1vWQIXXlAAUVIBXEgRR0JVRm1aV0EDRwgFCAdUBwwbHBJED1gBQwtTVQNXVAIEAgEGHhFDCl1HAxYAB1cADA4SHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCF9FWF4fEQFQEUtVTFJBDxsIAgYGRBlGAl4XDEMXHREIE3JwEB8RBkERXFpLXgxbGwMSRENEGUYIQj0QUhYQQVdQXVFAEQlBCUcVFlVWG2paVl5eVQVBDQ5fEUANR1URHhNdW1xaRwxLOkldXBVZFwwKCAICUBcZ
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HrJVFC8/20240826-230453.png" group-title="SPORTS | CHENNAL", Gazi Tv HD
+m3
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS | CHENNAL", Sony Ten 1
@@ -287,6 +307,18 @@ http://opplex.ch:8080/live/10071975/10071975/167576.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS | CHENNAL", Star Sports 3
 m
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS | CHENNAL", Willow Hd
+m3
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS | CHENNAL", Astro Cricket 
+m3
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS | CHENNAL", TNT Sports 
+m3
 
 
 
@@ -420,36 +452,15 @@ https://cdn.bandhon.com.bd/download/bangladeshi_movie/2024/Osomoy%20(2024)/Osomo
 
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="", C 
-m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="", C 
-m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="", C 
-m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="", C 
-m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="", C 
-m3
 
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="", C 
-m3
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="", C 
-m3
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="", C 
-m3
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="", C 
