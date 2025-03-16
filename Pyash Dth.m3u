@@ -131,11 +131,11 @@ m3
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="KOLKATA | CHENNAL", Star Jalsha 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" group-title="KOLKATA | CHENNAL", Star Jalsha 2
 https://ranapk.short.gy/STARJALSHAxRANAPK33.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="KOLKATA | CHENNAL", Star Jalsha 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" group-title="KOLKATA | CHENNAL", Star Jalsha 3
 https://ranapk.short.gy/STARJALSHAxRANAPK33.m3u8
 
 
@@ -143,15 +143,15 @@ https://ranapk.short.gy/STARJALSHAxRANAPK33.m3u8
 http://opplex.ch:8080/live/15459096/5370096/245900.ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="KOLKATA | CHENNAL", Jalsha Movies 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png" group-title="KOLKATA | CHENNAL", Jalsha Movies 2
 https://fifabd.site/JIOBE/play.m3u8?id=2550
 
 
-#EXTINF:-1 tvg-logo="" group-title="KOLKATA | CHENNAL", Jalsha Movies 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png" group-title="KOLKATA | CHENNAL", Jalsha Movies 3
 http://opplex.ch:8080/live/15459096/5370096/388692.ts
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="KOLKATA | CHENNAL", Zee Bangla Hd 
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="KOLKATA | CHENNAL", Zee Bangla Hd 
 http://opplex.ch:8080/live/10071975/10071975/245893.ts
 
 
@@ -175,15 +175,35 @@ m
 http://opplex.ch:8080/live/10071975/10071975/245897.ts
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KOLKATA | CHENNAL", Khusbo Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png" group-title="KOLKATA | CHENNAL", Khusbo Bangla
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KOLKATA | CHENNAL", Enter10 Bangla 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcHcrGC/20240803-101812.png" group-title="KOLKATA | CHENNAL", Enter10 Bangla 
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KOLKATA | CHENNAL", Amer Bangla 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j6PbJKP/20240803-101833.png" group-title="KOLKATA | CHENNAL", Amer Bangla 
+m3
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bFBzzLr/20240812-184048.png" group-title="KOLKATA | CHENNAL", AMAR DIGITAL
+m3
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2YnpKsn/20240907-143157.png" group-title="KOLKATA | CHENNAL", MON TV BANGLA
+m3
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1GKVrXb/Sun-Bangla.png" group-title="KOLKATA | CHENNAL", SUN BANGLA 
+m3
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVzzMtq/20240803-102343.png" group-title="KOLKATA | CHENNAL", RUPOSHI BANGLA
+m3
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9p6gBtp/20240813-191607.png" group-title="KOLKATA CHENNAL", BANGLA PLUS
 m3
 
 
@@ -200,11 +220,11 @@ http://opplex.ch:8080/live/10071975/10071975/221259.ts
 m
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", Sony Sab
+#EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F641%2Flogo%2F240x240%2Fmobile_logo_440775001666782769.png&w=256&q=75" group-title="INDIA | CHENNAL", Sony Sab
 m3
 
 
-#EXTINF:-1 tvg-logo="" group-title="INDIA | CHENNAL", Colors HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NYvkFB2/images-5.jp" group-title="INDIA | CHENNAL", Colors HD
 http://opplex.ch:8080/live/10071975/10071975/388783.ts
 
 
@@ -212,23 +232,23 @@ http://opplex.ch:8080/live/10071975/10071975/388783.ts
 http://opplex.ch:8080/live/10071975/10071975/221253.ts
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", ZEE CINEMA HD 
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="INDIA | CHENNAL", ZEE CINEMA HD 
 http://opplex.ch:8080/live/10071975/10071975/221261.ts
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", GOLDMINES 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d2RxB8P/20240817-133048.png" group-title="INDIA | CHENNAL", GOLDMINES 
 http://opplex.ch:8080/live/10071975/10071975/112973.ts
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", B4U Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ1rnqW/20240803-105438.png" group-title="INDIA | CHENNAL", B4U Movies
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", Star Gold
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nG471H/20240816-160109.png" group-title="INDIA | CHENNAL", Star Gold
 m3
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA | CHENNAL", Color Complex 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbkRHbt/20240816-150712.png" group-title="INDIA | CHENNAL", Color Complex 
 m3
 
 
