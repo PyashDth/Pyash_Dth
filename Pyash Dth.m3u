@@ -79,7 +79,7 @@ m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6YsQx2/20240815-181504.png" group-title="BD | CHENNAL", Bangla Vision
-m3
+http://103.163.247.39/local_out/banglavision/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" group-title="BD | CHENNAL", Nagorik Tv
@@ -152,7 +152,7 @@ http://opplex.ch:8080/live/15459096/5370096/388692.ts
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="KOLKATA | CHENNAL", Zee Bangla Hd 
-http://opplex.ch:8080/live/10071975/10071975/245893.ts
+http://103.122.74.6:8888/hls/zeebangla.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="KOLKATA | CHENNAL", Zee Bangla Sd
@@ -160,7 +160,7 @@ http://opplex.ch:8080/live/10071975/10071975/245893.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA | CHENNAL", Sony Aath
-http://opplex.ch:8080/live/10071975/10071975/245989.ts
+http://172.16.29.226:8090/hls/sonyatth.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2505/logo/240x240/mobile_logo_200057001655891962.png" group-title="KOLKATA | CHENNAL", Colors Bangla 
