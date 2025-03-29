@@ -5,7 +5,7 @@ http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="KOLKATA | CHENNAL", Star Jalsha HD
-http://103.122.74.6:8888/hls/starJalsha.m3u8
+http://103.122.74.6:8888/hls/STAR.JALSHA.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18841/logo/240x240/mobile_logo_664367001683806020.png" group-title="INDIA | CHENNAL", Star Plus HD
@@ -136,15 +136,15 @@ http://kst.moonplex.net:8080/CH3/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" group-title="KOLKATA | CHENNAL", Star Jalsha 3
-https://ranapk.short.gy/STARJALSHAxRANAPK33.m3u8
+http://humsab.xyz/IN_STARJ/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png" group-title="KOLKATA | CHENNAL", Jalsha Movies Hd
-http://103.122.74.6:8888/hls/zeemovie.m3u8
+http://103.122.74.6:8888/hls/JALSHA.MOVIES.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png" group-title="KOLKATA | CHENNAL", Jalsha Movies 2
-https://fifabd.site/JIOBE/play.m3u8?id=2550
+http://humsab.xyz/IN_JALSHAMOVIES/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png" group-title="KOLKATA | CHENNAL", Jalsha Movies 3
@@ -152,7 +152,7 @@ http://opplex.ch:8080/live/15459096/5370096/388692.ts
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="KOLKATA | CHENNAL", Zee Bangla Hd 
-http://103.122.74.6:8888/hls/zeebangla.m3u8
+http://103.122.74.6:8888/hls/ZEE.BANGLA.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="KOLKATA | CHENNAL", Zee Bangla Sd
@@ -160,11 +160,11 @@ http://opplex.ch:8080/live/10071975/10071975/245893.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA | CHENNAL", Sony Aath
-http://172.16.29.226:8090/hls/sonyatth.m3u8
+http://103.122.74.6:8888/hls/SONY.AAT.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2505/logo/240x240/mobile_logo_200057001655891962.png" group-title="KOLKATA | CHENNAL", Colors Bangla 
-http://opplex.ch:8080/live/10071975/10071975/245895.ts
+http://103.122.74.6:8888/hls/COLORS.BANGLA.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA | CHENNAL", Colors Bangla Cinema 
