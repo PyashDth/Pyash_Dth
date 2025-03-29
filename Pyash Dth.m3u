@@ -9,7 +9,7 @@ http://103.122.74.6:8888/hls/STAR.JALSHA.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18841/logo/240x240/mobile_logo_664367001683806020.png" group-title="INDIA | CHENNAL", Star Plus HD
-http://opplex.ch:8080/live/10071975/10071975/221252.ts
+http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png" group-title="KIDS | CHENNAL", Disney HD
@@ -17,7 +17,7 @@ http://opplex.ch:8080/live/15459096/5370096/167551.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SPORTS | CHENNAL", T Sports HD
-http://188.241.218.221/live/134134/134134/18452.ts?token=ShJcU0BbQQNHWFUPUgEADVsFAglWAgEDVwFaUgFTBwQJUlAHBgJXDlMbGBpEF0dcWF1vWQIXXlAJVlcFSUZGQVRCa1tXEVkbVAgECABRABsVEkRZC1BGWwBVVgVVVQUBBQIYEENaBxtfGwYOBlMADwoSHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCF9FWF4fEQFQEUtVTFJBDxsOBAMHRBlGAl4XDEMXHREIE3JwEB8RBkERXFpLXgxbGwMSRENEGUYIQj0QUhYQQVdQXVFAEQlBCUcVFlVWG2paVl5eVQVBDQ5fEUANR1URHhNdW1xaRwxLOkldXBVZFw4JBAkSGw==
+http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPFLpSBz/436x436.png" group-title="ISLAMIC | CHENNAL", Makkah Tv
@@ -53,7 +53,6 @@ Xxxm3u8xxX
 http://opplex.ch:8080/live/10071975/10071975/245930.ts
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3RNmkY/20240816-083023.png" group-title="BD | CHENNAL", DBC News 
 http://opplex.ch:8080/live/10071975/10071975/245914.ts
 
@@ -83,7 +82,7 @@ http://103.163.247.39/local_out/banglavision/tracks-v1a1/mono.m3u8?token=At5F1MF
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" group-title="BD | CHENNAL", Nagorik Tv
-m3
+http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T432dfs/20240815-181328.png" group-title="BD | CHENNAL", RTv
@@ -172,7 +171,7 @@ http://203.76.254.153/C1645263A1D245C/1sFTVBSVCP/1440968?token=SEReU0dfFg8WUAADA
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="KOLKATA | CHENNAL", Zee Bangla Cinema 
-http://opplex.ch:8080/live/10071975/10071975/245897.ts
+http://sat2.uvitech.eu/test/476219/475588/529676.ts?web=GRtQWBcJRgkUUlpTAlcGBQQEDgAOVF1TAgUHUV1cVQFVDw4BVQAGA1JEFRNHERFUVg9mX11EAlQBDk0WTEoEQT1QXBteQ1AAA14MExhHFkJSEFdXVAMaWxBUD1IKWCpnD3VvfCNDSBFGB0pCQwoRVRVYG30BUE4ySnRYRUx+BRFOG0xQCQRGCQdRDQIGVlEHBVQVFEkPXEMIFFIADg1VEU4bXUEQBBZdVwpmVVETClJSQANYTApUTRBZD2tdXAxSDF0aA0ZRRh8UD0pBFl9BAmMHWl5XCVQOVU9DGBtbCEcQWExcRltGBwdUGx0WBgxEWRZLTxtcGiN2FE0WXEEVVgxKUVYKQ14RQhUbHRYMEG5FB0pCSwNZDFdEQw4bCUMfQFRZQTsCC11YA1pFXQoNQhVYGwcbShoMXVgIQFZLPkMLXRoDRlVVCw5ERA==
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png" group-title="KOLKATA | CHENNAL", Khusbo Bangla
@@ -213,7 +212,7 @@ m3
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="INDIA | CHENNAL", Sony Max HD
-http://opplex.ch:8080/live/10071975/10071975/221259.ts
+http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="INDIA | CHENNAL", Sony Entertainment
@@ -225,7 +224,7 @@ m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NYvkFB2/images-5.jp" group-title="INDIA | CHENNAL", Colors HD
-http://opplex.ch:8080/live/10071975/10071975/388783.ts
+http://103.122.74.6:8888/hls/COLORS.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vYnZkKk/20240803-110602.png" group-title="INDIA | CHENNAL", & TV HD
@@ -233,7 +232,7 @@ http://opplex.ch:8080/live/10071975/10071975/221253.ts
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="INDIA | CHENNAL", ZEE CINEMA HD 
-http://opplex.ch:8080/live/10071975/10071975/221261.ts
+http://103.122.74.6:8888/hls/ZEE.CINEMA.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d2RxB8P/20240817-133048.png" group-title="INDIA | CHENNAL", GOLDMINES 
@@ -245,11 +244,11 @@ m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nG471H/20240816-160109.png" group-title="INDIA | CHENNAL", Star Gold
-m3
+http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbkRHbt/20240816-150712.png" group-title="INDIA | CHENNAL", Color Complex 
-m3
+http://103.122.74.6:8888/hls/COLORS.CINEPLEX.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2422%2Flogo%2F240x240%2Fmobile_logo_037670001666785867.png&w=256&q=75" group-title="INDIA | CHENNAL", SONY WAH
@@ -274,15 +273,15 @@ m3
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png" group-title="KIDS | CHENNAL", Nick HD
-http://opplex.ch:8080/live/15459096/5370096/150482.ts
+http://103.122.74.6:8888/hls/NICK.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS | CHENNAL", PoGo HD
-http://opplex.ch:8080/live/15459096/5370096/150483.ts
+http://103.122.74.6:8888/hls/POGO.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS | CHENNAL", Hungama 
-http://opplex.ch:8080/live/15459096/5370096/150480.ts
+http://103.122.74.6:8888/hls/HUNGAMA.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS | CHENNAL", Sonic HD
@@ -293,16 +292,16 @@ http://opplex.ch:8080/live/15459096/5370096/34011.ts
 https://fifabd.site/JIOBE/play.m3u8?id=1091
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS | CHENNAL", Nick Bangla 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS | CHENNAL", Nick Bangla 
 http://opplex.ch:8080/live/15459096/5370096/76722.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS | CHENNAL", PoGo 2
-m
+http://opplex.ch:8080/live/15459096/5370096/150483.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mzXD9KY/20240818-182658.png" group-title="KIDS | CHENNAL",Hungamah 2
-https://maxplay-tv.fun/op.php?id=1441461
+http://opplex.ch:8080/live/15459096/5370096/150480.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n7bjFdc/20240817-171812.png" group-title="KIDS | CHENNAL", Duronto
@@ -319,11 +318,11 @@ m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SPORTS | CHENNAL", Gazi Tv HD
-m3
+http://103.122.74.6:8888/hls/GAZI.TV.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F603%2Flogo%2F240x240%2Fmobile_logo_237244001666780563.png&w=256&q=75" group-title="SPORTS | CHENNAL", Sony Ten 1
-http://opplex.ch:8080/live/10071975/10071975/167570.ts
+http://103.122.74.6:8888/hls/SONY.SPORTS1.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F604%2Flogo%2F240x240%2Fmobile_logo_093449001666780976.png&w=256&q=75" group-title="SPORTS | CHENNAL", Sony Ten 2 
@@ -331,11 +330,11 @@ http://opplex.ch:8080/live/10071975/10071975/167571.ts
 
 
 #EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F2418%2Flogo%2F240x240%2Fmobile_logo_992280001666781086.png&w=256&q=75" group-title="SPORTS | CHENNAL", Sony Ten 3
-http://opplex.ch:8080/live/10071975/10071975/167572.ts
+http://103.122.74.6:8888/hls/SONY.SPORTS.3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F606%2Flogo%2F240x240%2Fmobile_logo_689539001672145843.png&w=256&q=75" group-title="SPORTS | CHENNAL", Sony Ten 5
-http://opplex.ch:8080/live/10071975/10071975/167580.ts
+http://103.122.74.6:8888/hls/SONY-SPORTS.5HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SPORTS | CHENNAL", Astro Cricket 
@@ -414,11 +413,11 @@ http://opplex.ch:8080/live/10071975/10071975/206287.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY | CHENNAL", Discovery Bangla
-https://bdlivestreaming.xyz/Ktv/op/245966/playlist.m3u8
+http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ngNhxGh/20240803-165452.png" group-title="DOCUMENTORY | CHENNAL", Wild Earth
-http://opplex.ch:8080/live/10071975/10071975/238545.ts
+http://103.122.74.6:8888/hls/NATGEO.WILD.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCDdc00/20240827-090724.png" group-title="DOCUMENTORY | CHENNAL", Travel HD
