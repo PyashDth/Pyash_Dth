@@ -29,7 +29,7 @@ http://opplex.ch:8080/live/10071975/10071975/245933.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ZWRbcP/20240803-170217.png" group-title="DOCUMENTORY | CHENNAL", Natinal Geographic 
-http://opplex.ch:8080/live/10071975/10071975/206286.ts
+http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ2jd82G/wwe-pictures-8lf7bovl3yethspy.jpg" group-title="24/7 CHENNAL", WWE
@@ -195,7 +195,7 @@ m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1GKVrXb/Sun-Bangla.png" group-title="KOLKATA | CHENNAL", SUN BANGLA 
-m3
+http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVzzMtq/20240803-102343.png" group-title="KOLKATA | CHENNAL", RUPOSHI BANGLA
@@ -216,7 +216,7 @@ http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="INDIA | CHENNAL", Sony Entertainment
-m
+http://103.122.74.6:8888/hls/SONY.ENT.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://toffeelive.com/_next/image?url=https%3A%2F%2Fimages.toffeelive.com%2Fimages%2Fprogram%2F641%2Flogo%2F240x240%2Fmobile_logo_440775001666782769.png&w=256&q=75" group-title="INDIA | CHENNAL", Sony Sab
@@ -305,7 +305,7 @@ http://opplex.ch:8080/live/15459096/5370096/150480.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n7bjFdc/20240817-171812.png" group-title="KIDS | CHENNAL", Duronto
-m3
+http://103.122.74.6:8888/hls/DURANTA.TV.HD.m3u8
 
 
 
@@ -338,7 +338,7 @@ http://103.122.74.6:8888/hls/SONY-SPORTS.5HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nqZMJy/20240818-162535.png" group-title="SPORTS | CHENNAL", Astro Cricket 
-m3
+http://103.122.74.6:8888/hls/ASTRO.CRICKET.m3u8
 
 
 
