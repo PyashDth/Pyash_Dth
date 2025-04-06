@@ -342,7 +342,15 @@ http://103.122.74.6:8888/hls/ASTRO.CRICKET.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://slidechef.net/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg" group-title="SPORTS | CHENNAL", IPL CHANNEL 
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1743413871~acl=%2f*~data=hdntl~hmac=6f637fdaa28793950fcb4c9c961d0ba89605c7db3ee186e3d45d1045c7048fed/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=3728000.m3u8
+http://sat2.uvitech.eu/test/74221/951933/777824.ts?web=GRtQWBcJRgkUVVoAAAQABARVXw8NVgsAUwNRDQBdUgVVDVoNAFVWAw5EFRNHERFUVg9mX11EAlACAFQYG0wSVhBmUV1GW0YHBVMBBBZJQUREB0tYWAtdQwgUA1pfCgB4NlR0biEmRh8UFlhCRxIMQ1NAAxRyXg4XYU4jDUhMJldAFRpNDQwBEQxXDgUHXFYHAVILGhsWUQUQDEMADQtUAkAVGlwcFQFBWAdVblAAFVhUBxsMVxNUDR4UDlpmXQReA1dcG15DVBEaRFBCREdZEwQ2XFVRCFcNXVEYFhUbA1oWS1lNAUNeEQVUDwUWSUFSWBdXQksfGlsQdCUWFRsESxZcVkoNDgoRDERNQhZJQVhEPUtTShJKBFNbBEYbA0MDQBUaVAUZO1BZCFdUVxEKXlkRGwwbVxpNEFsOWlBNDkE9SVFdRltGAQFUCgQWGA==
+
+
+#EXTINF:-1 tvg-logo="https://slidechef.net/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg" group-title="SPORTS | CHENNAL", IPL CHANNEL 2
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1744035127~acl=%2f*~data=hdntl~hmac=e58a354ebaa02e012818607b3197030e418b1cdfc72abd42711836550869185b/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=662800.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://slidechef.net/wp-content/uploads/2025/03/IPL-2025-cover-final.jpg" group-title="SPORTS | CHENNAL", IPL CHANNEL 3
+https://ee4ee8c03a26.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.755921704393.channel.LOohfipmCQDP.m3u8
 
 
 
