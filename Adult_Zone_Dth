@@ -28,16 +28,12 @@ http://23.134.91.95:8080/live/565620/565620/133193.ts?token=TEYOV0sLFwgaA1ZVBAdV
 https://www.xozilla.com/get_file/17/3fe028ac4b8b49026268f4baf3ff20a1/332000/332469/332469.mp4/?rnd=1745812931238
 
 
-#EXTINF:-1 tvg-logo="Lo" group-title="ADULT | MOVIES", Cha 
+#EXTINF:-1 tvg-logo="Lo" group-title="ADULT | MOVIES", EMMANUELLE 
 m3
 
 
-#EXTINF:-1 tvg-logo="Lo" group-title="ADULT | SERIES", Cha 
-m3
-
-
-#EXTINF:-1 tvg-logo="Lo" group-title="ADULT_ZONE", @XXX_ALLINONE
-m3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrC8kyY2/image-downloader-1746077014735.jpg" group-title="ADULT_ZONE", @XXX_ALLINONE
+m3u8
 
 
 
