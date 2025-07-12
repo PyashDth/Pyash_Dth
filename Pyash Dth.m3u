@@ -36,6 +36,10 @@ http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
 http://opplex.ch:8080/live/10071975/10071975/388817.ts
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 1-8,(720p)
+https://pixeldrain.net/api/file/hxY4ozME?download
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3JLtvzk/images-1.jpg" group-title="SPECIAL | MOVIES", 2022 WORLD CUP FINAL⚽
 http://172.16.50.9/DHAKA-FLIX-9/Awards%20%26%20TV%20Shows/%23%20FIFA%20World%20Cup%20Qatar%202022/FIFA%20World%20Cup%20Qatar%202022%20Final%20Match%20%2818-Dec-2022%29%20720p/Part-1%20FIFA%20World%20Cup%20Qatar%202022%20Final%20Match-Argentina%20v%20France%20720p%20HDTV%20x264%20AAC-MLWBD.mkv
 
@@ -495,6 +499,34 @@ http://opplex.ch:8080/live/10071975/10071975/389424.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFg2934G/83-837345-a-ray-of-light-movie-review-png-logo.jpg" group-title="24/7 CHENNAL", Movie Explained 4
 http://opplex.ch:8080/live/10071975/10071975/389425.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 1-8,(1080p)
+https://pixeldrain.dev/api/file/WuJLg9W5?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 1-8,(2160p)
+https://pixeldrain.dev/api/file/s7V1TvSx?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 9-18,(720p)
+https://pixeldrain.dev/api/file/vjq77icp?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 9-18,(1080p)
+https://pixeldrain.net/api/file/6SpcLysh?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 9-18,(2160p)
+https://pixeldrain.dev/api/file/eKCutbkY?download
+
+
+
 
 
 
