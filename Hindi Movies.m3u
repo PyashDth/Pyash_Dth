@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M3p4gQ1/MV5-BMTY0-Nj-E0-ODcz-MV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-MDg1-ODgz-MQ-V1.jpg" group-title="BOLLYWOOD | MOVIES", DEVDAS
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282002%29/Devdas%20%282002%29%201080p/Devdas%20%282002%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdiNGVlMTUtZmNhNy00ZjA5LWE0NzQtNjA3MDg1ZDU1ZWE4XkEyXkFqcGc@._V1_.jpg" group-title="BOLLYWOOD | MOVIES", HUM DIL DE CHUKE SANAM
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%281999%29/Hum%20Dil%20De%20Chuke%20Sanam%20%281999%29%201080p/Hum%20Dil%20De%20Chuke%20Sanam%20%281999%29%20Hindi%201080p%20WEBRip%20x264%20AAC%202.0%20-%20mkvCinemas.mkv
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdwqJ34g/6031.jpg" group-title="SOUTH INDIAN | MOVIES", BAHUBALI THE BUGGING 
@@ -20,12 +20,18 @@ https://fmftp.net/Data/movies/bollywood/2015_2017/Alone%20%282015%29/Alone%20201
 http://172.16.50.7/DHAKA-FLIX-7/Foreign%20Language%20Movies/Indonesian%20Language/KKN%20di%20Desa%20Penari%20%282022%29%201080p%20WEBRip%20%28Indonesia%29/KKN.Di.Desa.Penari.2022.Indonesian.1080p.WEB-DL.x264.AAC-PMovies.mkv
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/2a68dc2a4db9dbbe6fc5be2b8ec3a39ad9df193affb3a70fad745cc5bb3e2936.jpg" group-title="💥SRK💥", Devdas
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282002%29/Devdas%20%282002%29%201080p/Devdas%20%282002%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2FiMjQ2NTktOWY0ZS00NTE5LTk4OTAtZTc4NTBhMTIxYTg3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="💥EMRAAN HASMI💥", Awarapan 
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282007%29/Awarapan%20%282007%29%201080p/Awarapan%20%282007%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD2.0%20-%20mkvCinemas.mkv
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyTm5fyq/97.jpg" group-title="PYASH | DTH", T.me@Pyash8989
 ##########
 
-
-#EXTINF:-1 tvg-logo="" group-title="BOLLYWOOD | MOVIES", HUM DIL DE CHUKE SANAM
-M
 
 
 #EXTINF:-1 tvg-logo="" group-title="BOLLYWOOD | MOVIES", VEER ZARRA
