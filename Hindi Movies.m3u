@@ -427,7 +427,7 @@ http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282000%29/Phir%20Bhi%20Dil%20H
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282000%29/Josh%20%282000%29%20720p/Josh%20%282000%29%20Hindi%20720p%20WEBRip%20x264%20AAC%20-%20mkvCinemas.mkv
 
 
-#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282000%29/Mohabbatein%20%282000%29%201080p/aein.jpg" group-title="💥SRK💥", Mohabbatein 
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282000%29/Mohabbatein%20%282000%29%201080p/aein.jpg" group-title="💥SRK💥", Mohabbatein (2000)
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282000%29/Mohabbatein%20%282000%29%201080p/Mohabbatein%20%282000%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
 
 
@@ -443,56 +443,72 @@ http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282001%29/Asoka%20%282001%29%2
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282001%29/Kabhi%20Khushi%20Kabhie%20Gham...%20%282001%29%201080p/Kabhi%20Khushi%20Kabhie%20Gham%20%282001%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 
 
-#EXTINF:-1 tvg-logo="" group-title="💥SRK💥", 
-M
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282002%29/Hum%20Tumhare%20Hain%20Sanam%20%282002%29%201080p/a20_.jpg" group-title="💥SRK💥", Hum Tumhare Hei Sanam (2002)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282002%29/Hum%20Tumhare%20Hain%20Sanam%20%282002%29%201080p/Hum%20Tumhare%20Hain%20Sanam%20%282002%29%20Hindi%201080p%20WEBRip%20x264%20AAC%202.0%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282002%29/Shakti-The%20Power%20%282002%29%201080p/a76.jpg" group-title="💥SRK💥", Shakti (2002)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282002%29/Shakti-The%20Power%20%282002%29%201080p/Shakti-The%20Power%20%282002%29%20Hindi%201080p%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282003%29/Chalte%20Chalte%20%282003%29%201080p/a20_.jpg" group-title="💥SRK💥", Chalte Chalte (2003)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282003%29/Chalte%20Chalte%20%282003%29%201080p/Chalte%20Chalte%20%282003%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282004%29/Main%20Hoon%20Na%20%282004%29%201080p/ato.jpg" group-title="💥SRK💥", Main Hoo Nah (2004)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282004%29/Main%20Hoon%20Na%20%282004%29%201080p/Main%20Hoon%20Na%20%282004%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.imdb.com/title/tt0367110/mediaviewer/rm4032487680/?ref_=tt_ov_i" group-title="💥SRK💥", Swades (2004)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282004%29/Swades%20%282004%29%201080p/Swades%20%282004%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282006%29/Kabhi%20Alvida%20Naa%20Kehna%20%282006%29%201080p/aa06.jpg" group-title="💥SRK💥", Kabhi Alvida Naa Kehna (2006)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282006%29/Kabhi%20Alvida%20Naa%20Kehna%20%282006%29%201080p/Kabhi%20Alvida%20Naa%20Kehna%20%282006%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282007%29/Om%20Shanti%20Om%20%282007%29%201080p/aaz.jpg" group-title="💥SRK💥", Omm Shanti Omm (2007)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282007%29/Om%20Shanti%20Om%20%282007%29%201080p/Om%20Shanti%20Om%20%282007%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSCRqF1H/6001.jpg" group-title="💥SRK💥", BHOOTNATH (2008)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282008%29/Bhoothnath%20%282008%29%201080p/Bhoothnath%20%282008%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282010%29/My%20Name%20Is%20Khan%20%282010%29%201080p/aNas.jpg" group-title="💥SRK💥", My Name Is Khan (2010)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282010%29/My%20Name%20Is%20Khan%20%282010%29%201080p/My%20Name%20Is%20Khan%20%282010%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282011%29/Ra.One%20%282011%29%201080p/ayz.jpg" group-title="💥SRK💥", Ra One (2011)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282011%29/Ra.One%20%282011%29%201080p/Ra.One%20%282011%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282011%29/Don%202%20%282011%29%201080p/ajx.jpg" group-title="💥SRK💥", Don 2 (2011)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282011%29/Don%202%20%282011%29%201080p/Don%202%20%282011%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282012%29/Jab%20Tak%20Hai%20Jaan%20%282012%29%201080p/a_AL_.jpg" group-title="💥SRK💥", Jab Tak He Jan (2012)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282012%29/Jab%20Tak%20Hai%20Jaan%20%282012%29%201080p/Jab%20Tak%20Hai%20Jaan%20%282012%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnqcMF7K/6008.jpg" group-title="💥SRK💥", CHENNAI EXPRESS (2013)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282013%29/Chennai%20Express%20%282013%29%201080p/Chennai%20Express%20%282013%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282014%29/Happy%20New%20Year%20%282014%29%201080p/a607_.jpg" group-title="💥SRK💥", Happy New Year (2014)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282014%29/Happy%20New%20Year%20%282014%29%201080p/Happy%20New%20Year%20%282014%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjFX3W45/6010.jpg" group-title="💥SRK💥", DILWALE (2015)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282015%29/Dilwale%20%282015%29%201080p/Dilwale%20%282015%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 
 
 #EXTINF:-1 tvg-logo="" group-title="💥SRK💥", 
 M
 
 
-#EXTINF:-1 tvg-logo="" group-title="💥SRK💥", 
-M
 
 
-#EXTINF:-1 tvg-logo="" group-title="💥SRK💥", 
-M
-
-
-#EXTINF:-1 tvg-logo="" group-title="💥SRK💥", 
-M
-
-
-#EXTINF:-1 tvg-logo="" group-title="💥SRK💥", 
-M
-
-
-#EXTINF:-1 tvg-logo="" group-title="💥SRK💥", 
-M
-
-
-#EXTINF:-1 tvg-logo="" group-title="💥SRK💥", 
-M
-
-
-#EXTINF:-1 tvg-logo="" group-title="💥SRK💥", 
-M
-
-
-#EXTINF:-1 tvg-logo="" group-title="💥SRK💥", 
-M
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnqcMF7K/6008.jpg" group-title="💥SRK💥", CHENNAI EXPRESS
-m
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSCRqF1H/6001.jpg" group-title="💥SRK💥", BHOOTNATH
-m
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjFX3W45/6010.jpg" group-title="💥SRK💥", DILWALE
-M
 
 
 
