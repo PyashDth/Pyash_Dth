@@ -318,7 +318,7 @@ http://103.122.74.6:8888/hls/DURANTA.TV.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SPORTS | CHENNAL", T Sports SD
-m3
+http://103.15.140.138/tsports/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rxfvjBN/20240817-215846.png" group-title="SPORTS | CHENNAL", Gazi Tv HD
@@ -514,16 +514,30 @@ https://pixeldrain.dev/api/file/WuJLg9W5?download
 https://pixeldrain.dev/api/file/s7V1TvSx?download
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 9-18,(720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 9-16,(720p)
 https://pixeldrain.dev/api/file/vjq77icp?download
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 9-18,(1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 9-16,(1080p)
 https://pixeldrain.net/api/file/6SpcLysh?download
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 9-18,(2160p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 9-16,(2160p)
 https://pixeldrain.dev/api/file/eKCutbkY?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 17-24,(720p)
+https://pixeldrain.dev/api/file/HLdxrQDm?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 17-24,(1080p)
+https://pixeldrain.dev/api/file/zBu77ftS?download
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRp6RpD1/20250711-141508.jpg" group-title="BACHELOR POINT S5", EPISODE 17-24,(2160p)
+https://pixeldrain.dev/api/file/YvBq2CDZ?download
+
+
 
 
 
