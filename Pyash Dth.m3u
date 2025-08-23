@@ -13,7 +13,7 @@ http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png" group-title="KIDS | CHENNAL", Disney HD
-http://tv.bdiptv.store:80/live/restreauu/refstream/71.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SPORTS | CHENNAL", T Sports HD
@@ -25,11 +25,11 @@ http://opplex.ch:8080/live/10071975/10071975/10.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="MUSIC | CHENNAL", Sangeet Bangla
-https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/sangeetbangla/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ZWRbcP/20240803-170217.png" group-title="DOCUMENTORY | CHENNAL", Natinal Geographic 
-http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ2jd82G/wwe-pictures-8lf7bovl3yethspy.jpg" group-title="24/7 CHENNAL", WWE
@@ -135,11 +135,11 @@ https://tvsen6.aynaott.com/anandatv/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" group-title="KOLKATA | CHENNAL", Star Jalsha Hd
-http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" group-title="KOLKATA | CHENNAL", Star Jalsha Hd
-http://103.122.252.100:8080/STAR-JALSHA/index.fmp4.m3u8
+http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png" group-title="KOLKATA | CHENNAL", Jalsha Movies 
@@ -147,11 +147,11 @@ https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png" group-title="KOLKATA | CHENNAL", Jalsha Movies Hd
-http://103.122.252.100:8080/JALSHA-MOVIES/index.fmp4.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hX8xKVW/20240816-152834.png" group-title="KOLKATA | CHENNAL", Jalsha Movies Hd
-http://nevjfhb.mtop5.xyz/live/2249871453/1991220000/400159618.m3u8
+http://103.122.252.100:8080/JALSHA-MOVIES/index.fmp4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="KOLKATA | CHENNAL", Zee Bangla 
@@ -277,11 +277,11 @@ m3
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png" group-title="KIDS | CHENNAL", Nick HD
-http://103.122.74.6:8888/hls/NICK.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS | CHENNAL", PoGo HD
-http://app.hughag.store/api/d2586d604e/playlist.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/pogohindi/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS | CHENNAL", Hungama 
@@ -289,11 +289,11 @@ https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS | CHENNAL", Sonic HD
-https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/sonichindi/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2jbcj3m/20240817-141832.png" group-title="KIDS | CHENNAL", Disney 2
-https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
+http://tv.bdiptv.store/live/restreauuX58/refstream/71.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS | CHENNAL", Nick Bangla 
@@ -420,7 +420,7 @@ m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nmqxm7q/20240812-184149.png" group-title="MUSIC | CHENNAL", Doom Music Bangla
-http://opplex.ch:8080/live/10071975/10071975/245921.ts
+https://live.dinesh29.com.np/stream/jiotvplus/dhoommusicbangla/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png" group-title="MUSIC | CHENNAL", 9xm 
@@ -444,7 +444,7 @@ m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6Czgpt/20240803-104352.png" group-title="MUSIC | CHENNAL", Music India
-m3
+https://live.dinesh29.com.np/stream/jiotvplus/musicindia/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png" group-title="MUSIC | CHENNAL", MTV Beats
@@ -461,7 +461,7 @@ m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hB4Sv2y/20240803-101733.png" group-title="DOCUMENTORY | CHENNAL", Discovery HD
-http://opplex.ch:8080/live/10071975/10071975/206287.ts
+https://live.dinesh29.com.np/stream/jiotvplus/discovery/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY | CHENNAL", Discovery Bangla
