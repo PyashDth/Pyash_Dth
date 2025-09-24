@@ -318,7 +318,7 @@ http://103.122.74.6:8888/hls/DURANTA.TV.HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SPORTS | CHENNAL", T Sports 1
-http://103.15.140.138/tsports/index.m3u8
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCgY1vF/20240820-171000.png" group-title="SPORTS | CHENNAL", T Sports 2
